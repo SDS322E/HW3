@@ -1,0 +1,1679 @@
+hometype,gender,income,race,ID,visit,treatment,age,symptomdays,IgE,mice.infest
+Row house,male,5 - <10K,Black,006b23,0,IPM,8,0,7.2,Yes
+NA,male,5 - <10K,Black,006b23,1,IPM,8,0,NA,Yes
+NA,male,5 - <10K,Black,006b23,2,IPM,8,0,NA,Yes
+NA,male,5 - <10K,Black,006b23,3,IPM,8,0,NA,Yes
+NA,male,5 - <10K,Black,006b23,4,IPM,9,3,1.57,Yes
+Detached house,female,25 - <30K,White,02dfd9,0,Education,7,4,2.37,Yes
+NA,female,25 - <30K,White,02dfd9,1,Education,7,14,NA,Yes
+NA,female,25 - <30K,White,02dfd9,2,Education,8,3,NA,Yes
+NA,female,25 - <30K,White,02dfd9,3,Education,8,14,NA,Yes
+Apartment,male,20 - <25K,Black,03410c,0,IPM,9,1,4.6,Yes
+NA,male,20 - <25K,Black,03410c,1,IPM,9,0,NA,Yes
+NA,male,20 - <25K,Black,03410c,2,IPM,9,4,NA,Yes
+NA,male,20 - <25K,Black,03410c,3,IPM,9,2,NA,Yes
+NA,male,20 - <25K,Black,03410c,4,IPM,10,0,2.04,Yes
+Duplex/semi-detached,male,>50K,Black,0429c6,0,Education,11,0,2.69,Yes
+NA,male,>50K,Black,0429c6,1,Education,11,3,NA,Yes
+NA,male,>50K,Black,0429c6,2,Education,11,0,NA,Yes
+NA,male,>50K,Black,0429c6,3,Education,11,3,NA,Yes
+NA,male,>50K,Black,0429c6,4,Education,12,0,2.45,Yes
+Row house,male,25 - <30K,Black,0606da,0,IPM,16,1,0.14,Yes
+NA,male,25 - <30K,Black,0606da,1,IPM,16,1,NA,Yes
+NA,male,25 - <30K,Black,0606da,2,IPM,16,1,NA,Yes
+NA,male,25 - <30K,Black,0606da,3,IPM,16,0,NA,Yes
+NA,male,25 - <30K,Black,0606da,4,IPM,17,1,0.15,Yes
+Apartment,female,don't know,unknown,061470,0,IPM,15,3,18.4,Yes
+NA,female,don't know,unknown,061470,1,IPM,15,0,NA,Yes
+NA,female,don't know,unknown,061470,2,IPM,16,1,NA,Yes
+NA,female,don't know,unknown,061470,3,IPM,16,0,NA,Yes
+NA,female,don't know,unknown,061470,4,IPM,16,0,3.52,Yes
+Row house end of group,male,5 - <10K,Black,0620b7,0,IPM,6,9,23.2,Yes
+NA,male,5 - <10K,Black,0620b7,1,IPM,NA,NA,NA,Yes
+NA,male,5 - <10K,Black,0620b7,2,IPM,7,2,NA,No
+NA,male,5 - <10K,Black,0620b7,3,IPM,7,3,NA,No
+NA,male,5 - <10K,Black,0620b7,4,IPM,7,0,15.9,Yes
+Apartment,male,5 - <10K,Black,084312,0,Education,8,2,14.2,Yes
+NA,male,5 - <10K,Black,084312,1,Education,9,3,NA,Yes
+NA,male,5 - <10K,Black,084312,2,Education,9,4,NA,Yes
+NA,male,5 - <10K,Black,084312,3,Education,9,14,NA,Yes
+NA,male,5 - <10K,Black,084312,4,Education,9,5,4.98,No
+Detached house,male,don't know,White,08dfa2,0,IPM,6,14,0.89,Yes
+NA,male,don't know,White,08dfa2,1,IPM,6,3,NA,Yes
+NA,male,don't know,White,08dfa2,2,IPM,7,4,NA,Yes
+NA,male,don't know,White,08dfa2,3,IPM,7,3,NA,Yes
+NA,male,don't know,White,08dfa2,4,IPM,7,14,0.52,Yes
+Detached house,female,45 - <50K,Black,0b2b3a,0,IPM,6,0,48.8,Yes
+NA,female,45 - <50K,Black,0b2b3a,1,IPM,7,0,NA,Yes
+NA,female,45 - <50K,Black,0b2b3a,2,IPM,7,0,NA,Yes
+NA,female,45 - <50K,Black,0b2b3a,3,IPM,7,2,NA,Yes
+NA,female,45 - <50K,Black,0b2b3a,4,IPM,8,1,37.5,Yes
+Apartment,female,5 - <10K,White,0bfcfd,0,IPM,12,2,47,Yes
+NA,female,5 - <10K,White,0bfcfd,1,IPM,12,0,NA,No
+NA,female,5 - <10K,White,0bfcfd,2,IPM,12,0,NA,No
+NA,female,5 - <10K,White,0bfcfd,3,IPM,13,0,NA,Yes
+NA,female,5 - <10K,White,0bfcfd,4,IPM,13,5,2.36,Yes
+Row house end of group,female,5 - <10K,Black,0cb359,0,Education,7,4,0.18,Yes
+NA,female,5 - <10K,Black,0cb359,1,Education,7,7,NA,Yes
+NA,female,5 - <10K,Black,0cb359,2,Education,7,4,NA,Yes
+NA,female,5 - <10K,Black,0cb359,3,Education,8,8,NA,Yes
+NA,female,5 - <10K,Black,0cb359,4,Education,8,4,1.27,Yes
+Row house,male,30 - <35K,Black,0cb62a,0,IPM,14,2,0.05,Yes
+NA,male,30 - <35K,Black,0cb62a,1,IPM,14,1,NA,No
+NA,male,30 - <35K,Black,0cb62a,2,IPM,15,0,NA,No
+NA,male,30 - <35K,Black,0cb62a,3,IPM,15,0,NA,Yes
+NA,male,30 - <35K,Black,0cb62a,4,IPM,15,0,0.05,No
+Apartment,male,<5K,Black,0cee6d,0,Education,6,7,2.23,Yes
+NA,male,<5K,Black,0cee6d,1,Education,6,2,NA,Yes
+NA,male,<5K,Black,0cee6d,2,Education,7,4,NA,Yes
+NA,male,<5K,Black,0cee6d,3,Education,7,1,NA,Yes
+NA,male,<5K,Black,0cee6d,4,Education,7,3,1.05,No
+Row house,male,10 - <15K,Black,0e136d,0,Education,9,1,0.05,Yes
+NA,male,10 - <15K,Black,0e136d,1,Education,9,3,NA,Yes
+NA,male,10 - <15K,Black,0e136d,2,Education,10,2,NA,Yes
+NA,male,10 - <15K,Black,0e136d,3,Education,10,2,NA,Yes
+NA,male,10 - <15K,Black,0e136d,4,Education,10,2,0.05,Yes
+Row house,female,40 - <45K,Black,0e3dcc,0,Education,10,3,19.1,Yes
+NA,female,40 - <45K,Black,0e3dcc,1,Education,11,4,NA,Yes
+NA,female,40 - <45K,Black,0e3dcc,2,Education,11,2,NA,Yes
+NA,female,40 - <45K,Black,0e3dcc,3,Education,11,3,NA,Yes
+NA,female,40 - <45K,Black,0e3dcc,4,Education,11,3,5.34,Yes
+Row house,male,40 - <45K,Black,0edd23,0,IPM,6,3,36,Yes
+NA,male,40 - <45K,Black,0edd23,1,IPM,6,0,NA,Yes
+NA,male,40 - <45K,Black,0edd23,2,IPM,7,3,NA,Yes
+NA,male,40 - <45K,Black,0edd23,3,IPM,7,1,NA,No
+NA,male,40 - <45K,Black,0edd23,4,IPM,7,1,11.4,Yes
+Apartment,male,20 - <25K,White,0ef44c,0,IPM,8,0,100,Yes
+NA,male,20 - <25K,White,0ef44c,1,IPM,8,2,NA,Yes
+NA,male,20 - <25K,White,0ef44c,2,IPM,9,1,NA,No
+NA,male,20 - <25K,White,0ef44c,3,IPM,9,1,NA,No
+NA,male,20 - <25K,White,0ef44c,4,IPM,9,3,51.1,No
+Row house,female,15 - <20K,Black,0f5fd8,0,IPM,8,3,0.05,Yes
+NA,female,15 - <20K,Black,0f5fd8,1,IPM,8,3,NA,Yes
+NA,female,15 - <20K,Black,0f5fd8,2,IPM,8,0,NA,No
+NA,female,15 - <20K,Black,0f5fd8,3,IPM,9,0,NA,No
+NA,female,15 - <20K,Black,0f5fd8,4,IPM,9,7,0.05,Yes
+Row house,male,10 - <15K,Black,10799f,0,IPM,9,6,61.1,Yes
+NA,male,10 - <15K,Black,10799f,1,IPM,10,0,NA,Yes
+NA,male,10 - <15K,Black,10799f,2,IPM,10,0,NA,Yes
+NA,male,10 - <15K,Black,10799f,3,IPM,10,0,NA,Yes
+NA,male,10 - <15K,Black,10799f,4,IPM,11,0,97.3,Yes
+Row house end of group,male,10 - <15K,Black,110403,0,Education,12,0,21.2,Yes
+NA,male,10 - <15K,Black,110403,1,Education,13,0,NA,Yes
+NA,male,10 - <15K,Black,110403,2,Education,13,0,NA,Yes
+NA,male,10 - <15K,Black,110403,3,Education,13,1,NA,Yes
+NA,male,10 - <15K,Black,110403,4,Education,13,0,NA,Yes
+Apartment,male,<5K,Black,12c6de,0,Education,8,0,100,Yes
+NA,male,<5K,Black,12c6de,1,Education,9,0,NA,No
+NA,male,<5K,Black,12c6de,2,Education,9,2,NA,Yes
+NA,male,<5K,Black,12c6de,3,Education,9,3,NA,Yes
+NA,male,<5K,Black,12c6de,4,Education,10,5,34.5,Yes
+Apartment,male,<5K,Black,133e55,0,Education,6,14,5.27,Yes
+NA,male,<5K,Black,133e55,1,Education,7,4,NA,No
+NA,male,<5K,Black,133e55,2,Education,7,0,NA,No
+NA,male,<5K,Black,133e55,3,Education,7,5,NA,Yes
+NA,male,<5K,Black,133e55,4,Education,7,1,0.05,Yes
+Apartment,male,30 - <35K,White,1414c5,0,IPM,10,8,10.7,Yes
+NA,male,30 - <35K,White,1414c5,1,IPM,10,4,NA,No
+NA,male,30 - <35K,White,1414c5,2,IPM,11,0,NA,No
+NA,male,30 - <35K,White,1414c5,3,IPM,11,0,NA,No
+NA,male,30 - <35K,White,1414c5,4,IPM,11,6,4.35,No
+Row house end of group,female,30 - <35K,Black,14bc0c,0,IPM,11,0,1.71,Yes
+NA,female,30 - <35K,Black,14bc0c,1,IPM,11,0,NA,Yes
+NA,female,30 - <35K,Black,14bc0c,2,IPM,11,1,NA,No
+NA,female,30 - <35K,Black,14bc0c,3,IPM,11,0,NA,Yes
+NA,female,30 - <35K,Black,14bc0c,4,IPM,12,1,1.4,No
+Row house,male,<5K,Black,14d5ed,0,Education,8,2,0.05,Yes
+NA,male,<5K,Black,14d5ed,1,Education,9,2,NA,No
+NA,male,<5K,Black,14d5ed,2,Education,9,3,NA,Yes
+NA,male,<5K,Black,14d5ed,3,Education,9,1,NA,Yes
+NA,male,<5K,Black,14d5ed,4,Education,10,2,0.05,Yes
+Duplex/semi-detached,male,20 - <25K,White,160c68,0,IPM,11,2,3.3,Yes
+NA,male,20 - <25K,White,160c68,1,IPM,11,2,NA,No
+NA,male,20 - <25K,White,160c68,2,IPM,11,0,NA,No
+NA,male,20 - <25K,White,160c68,3,IPM,12,0,NA,No
+NA,male,20 - <25K,White,160c68,4,IPM,12,0,1.92,No
+Row house,male,5 - <10K,Black,16134a,0,Education,14,1,0.05,No
+NA,male,5 - <10K,Black,16134a,1,Education,14,2,NA,Yes
+NA,male,5 - <10K,Black,16134a,2,Education,14,1,NA,Yes
+NA,male,5 - <10K,Black,16134a,3,Education,15,3,NA,Yes
+NA,male,5 - <10K,Black,16134a,4,Education,15,0,0.05,Yes
+Row house end of group,female,40 - <45K,Black,16273e,0,IPM,9,0,15.2,Yes
+NA,female,40 - <45K,Black,16273e,1,IPM,9,2,NA,Yes
+NA,female,40 - <45K,Black,16273e,2,IPM,9,5,NA,Yes
+NA,female,40 - <45K,Black,16273e,3,IPM,10,0,NA,Yes
+NA,female,40 - <45K,Black,16273e,4,IPM,10,2,14.8,Yes
+Row house,female,<5K,multi,180daa,0,Education,7,2,12.9,No
+NA,female,<5K,multi,180daa,1,Education,7,3,NA,No
+NA,female,<5K,multi,180daa,2,Education,8,3,NA,No
+NA,female,<5K,multi,180daa,3,Education,8,2,NA,Yes
+NA,female,<5K,multi,180daa,4,Education,8,2,15,No
+Duplex/semi-detached,male,5 - <10K,Black,183ed2,0,Education,11,0,9.44,Yes
+NA,male,5 - <10K,Black,183ed2,1,Education,11,4,NA,Yes
+NA,male,5 - <10K,Black,183ed2,2,Education,12,14,NA,No
+NA,male,5 - <10K,Black,183ed2,3,Education,12,5,NA,Yes
+NA,male,5 - <10K,Black,183ed2,4,Education,12,14,17.7,Yes
+Row house,male,35 - <40K,Black,18e0c1,0,IPM,7,1,25.7,Yes
+NA,male,35 - <40K,Black,18e0c1,1,IPM,8,0,NA,No
+NA,male,35 - <40K,Black,18e0c1,2,IPM,8,0,NA,No
+NA,male,35 - <40K,Black,18e0c1,3,IPM,8,2,NA,Yes
+NA,male,35 - <40K,Black,18e0c1,4,IPM,8,0,15.5,No
+Apartment,male,5 - <10K,White,1908d9,0,Education,10,0,10.1,Yes
+NA,male,5 - <10K,White,1908d9,1,Education,10,0,NA,Yes
+NA,male,5 - <10K,White,1908d9,2,Education,10,0,NA,Yes
+NA,male,5 - <10K,White,1908d9,3,Education,10,0,NA,No
+NA,male,5 - <10K,White,1908d9,4,Education,11,0,5.37,Yes
+Row house,male,30 - <35K,Black,192e91,0,Education,7,3,100,Yes
+NA,male,30 - <35K,Black,192e91,1,Education,8,7,NA,Yes
+NA,male,30 - <35K,Black,192e91,2,Education,8,2,NA,Yes
+NA,male,30 - <35K,Black,192e91,3,Education,8,0,NA,Yes
+NA,male,30 - <35K,Black,192e91,4,Education,8,2,96.7,Yes
+Apartment,female,25 - <30K,Black,1b06cf,0,Education,7,4,91.2,Yes
+NA,female,25 - <30K,Black,1b06cf,1,Education,8,3,NA,Yes
+Row house,male,5 - <10K,Black,1bdf10,0,IPM,7,6,33.6,Yes
+NA,male,5 - <10K,Black,1bdf10,1,IPM,7,14,NA,Yes
+NA,male,5 - <10K,Black,1bdf10,2,IPM,8,14,NA,No
+NA,male,5 - <10K,Black,1bdf10,3,IPM,8,4,NA,Yes
+NA,male,5 - <10K,Black,1bdf10,4,IPM,8,2,2.47,Yes
+Row house,male,40 - <45K,Black,1cfd19,0,Education,13,0,16.8,Yes
+NA,male,40 - <45K,Black,1cfd19,1,Education,14,7,NA,Yes
+NA,male,40 - <45K,Black,1cfd19,2,Education,14,0,NA,Yes
+NA,male,40 - <45K,Black,1cfd19,3,Education,14,0,NA,Yes
+NA,male,40 - <45K,Black,1cfd19,4,Education,14,0,6.29,Yes
+Row house,male,>50K,Black,1d89be,0,IPM,12,2,0.81,Yes
+NA,male,>50K,Black,1d89be,1,IPM,12,3,NA,Yes
+NA,male,>50K,Black,1d89be,2,IPM,12,1,NA,Yes
+NA,male,>50K,Black,1d89be,3,IPM,13,1,NA,No
+NA,male,>50K,Black,1d89be,4,IPM,13,0,0.43,Yes
+Row house,male,15 - <20K,Black,1dc456,0,IPM,7,0,93.4,Yes
+NA,male,15 - <20K,Black,1dc456,1,IPM,7,4,NA,No
+NA,male,15 - <20K,Black,1dc456,2,IPM,7,3,NA,Yes
+NA,male,15 - <20K,Black,1dc456,3,IPM,8,3,NA,Yes
+NA,male,15 - <20K,Black,1dc456,4,IPM,8,0,100,No
+Row house,female,20 - <25K,Black,1f942e,0,IPM,8,6,49.8,Yes
+NA,female,20 - <25K,Black,1f942e,1,IPM,8,0,NA,Yes
+NA,female,20 - <25K,Black,1f942e,2,IPM,9,2,NA,Yes
+NA,female,20 - <25K,Black,1f942e,3,IPM,9,7,NA,No
+NA,female,20 - <25K,Black,1f942e,4,IPM,9,0,20.7,Yes
+Apartment,female,5 - <10K,Black,209d7d,0,IPM,9,1,20.9,Yes
+NA,female,5 - <10K,Black,209d7d,1,IPM,9,3,NA,Yes
+NA,female,5 - <10K,Black,209d7d,2,IPM,10,3,NA,Yes
+Row house,male,10 - <15K,Black,210979,0,IPM,15,0,0.05,Yes
+NA,male,10 - <15K,Black,210979,1,IPM,16,3,NA,Yes
+NA,male,10 - <15K,Black,210979,2,IPM,16,0,NA,No
+NA,male,10 - <15K,Black,210979,3,IPM,16,0,NA,Yes
+NA,male,10 - <15K,Black,210979,4,IPM,16,1,0.05,Yes
+Apartment,female,20 - <25K,Black,21ee0a,0,IPM,13,1,14.3,Yes
+NA,female,20 - <25K,Black,21ee0a,1,IPM,13,0,NA,No
+NA,female,20 - <25K,Black,21ee0a,2,IPM,14,5,NA,No
+NA,female,20 - <25K,Black,21ee0a,3,IPM,14,5,NA,No
+NA,female,20 - <25K,Black,21ee0a,4,IPM,14,1,15.5,No
+Row house,female,<5K,Black,227d07,0,IPM,6,6,0.47,Yes
+NA,female,<5K,Black,227d07,1,IPM,7,0,NA,Yes
+NA,female,<5K,Black,227d07,2,IPM,7,2,NA,Yes
+NA,female,<5K,Black,227d07,3,IPM,7,2,NA,Yes
+NA,female,<5K,Black,227d07,4,IPM,7,0,0.11,No
+Apartment,male,don't know,White,22911b,0,IPM,14,3,13.9,Yes
+NA,male,don't know,White,22911b,1,IPM,14,0,NA,No
+NA,male,don't know,White,22911b,2,IPM,14,0,NA,Yes
+NA,male,don't know,White,22911b,3,IPM,14,14,NA,Yes
+NA,male,don't know,White,22911b,4,IPM,15,0,5.31,No
+Apartment,male,10 - <15K,Black,24c0a4,0,IPM,5,2,100,No
+NA,male,10 - <15K,Black,24c0a4,1,IPM,6,1,NA,No
+NA,male,10 - <15K,Black,24c0a4,2,IPM,6,3,NA,No
+NA,male,10 - <15K,Black,24c0a4,3,IPM,6,2,NA,No
+NA,male,10 - <15K,Black,24c0a4,4,IPM,6,0,100,No
+Row house,female,10 - <15K,Black,24d143,0,IPM,17,14,4.21,Yes
+NA,female,10 - <15K,Black,24d143,1,IPM,17,14,NA,Yes
+NA,female,10 - <15K,Black,24d143,2,IPM,17,8,NA,Yes
+NA,female,10 - <15K,Black,24d143,3,IPM,17,14,NA,Yes
+NA,female,10 - <15K,Black,24d143,4,IPM,18,14,0.99,No
+Detached house,male,20 - <25K,multi,25d0ec,0,Education,8,14,4.09,Yes
+NA,male,20 - <25K,multi,25d0ec,1,Education,8,2,NA,No
+NA,male,20 - <25K,multi,25d0ec,2,Education,9,0,NA,No
+NA,male,20 - <25K,multi,25d0ec,3,Education,9,0,NA,No
+NA,male,20 - <25K,multi,25d0ec,4,Education,9,0,1.5,Yes
+Row house end of group,female,25 - <30K,Black,25fbe8,0,IPM,9,1,0.11,No
+NA,female,25 - <30K,Black,25fbe8,1,IPM,9,2,NA,No
+NA,female,25 - <30K,Black,25fbe8,2,IPM,9,0,NA,No
+NA,female,25 - <30K,Black,25fbe8,3,IPM,10,0,NA,No
+NA,female,25 - <30K,Black,25fbe8,4,IPM,10,0,0.05,No
+Row house,male,25 - <30K,Black,261a02,0,Education,12,1,8.11,Yes
+NA,male,25 - <30K,Black,261a02,1,Education,12,0,NA,Yes
+NA,male,25 - <30K,Black,261a02,2,Education,13,0,NA,Yes
+NA,male,25 - <30K,Black,261a02,3,Education,13,0,NA,Yes
+NA,male,25 - <30K,Black,261a02,4,Education,13,0,10.6,Yes
+Row house,male,30 - <35K,Black,2849f4,0,IPM,16,4,1.71,No
+NA,male,30 - <35K,Black,2849f4,1,IPM,17,2,NA,No
+NA,male,30 - <35K,Black,2849f4,2,IPM,NA,NA,NA,No
+Row house,male,<5K,Black,296db9,0,IPM,8,4,3.69,Yes
+NA,male,<5K,Black,296db9,1,IPM,8,14,NA,Yes
+NA,male,<5K,Black,296db9,2,IPM,9,3,NA,No
+NA,male,<5K,Black,296db9,3,IPM,9,8,NA,Yes
+NA,male,<5K,Black,296db9,4,IPM,9,7,1.56,Yes
+Row house,female,45 - <50K,Black,2a1c8c,0,IPM,16,0,37.8,Yes
+NA,female,45 - <50K,Black,2a1c8c,1,IPM,16,0,NA,No
+NA,female,45 - <50K,Black,2a1c8c,2,IPM,16,0,NA,No
+NA,female,45 - <50K,Black,2a1c8c,3,IPM,17,0,NA,Yes
+NA,female,45 - <50K,Black,2a1c8c,4,IPM,NA,NA,NA,Yes
+Duplex/semi-detached,female,25 - <30K,multi,2a3563,0,Education,5,9,71.6,No
+NA,female,25 - <30K,multi,2a3563,1,Education,5,14,NA,Yes
+NA,female,25 - <30K,multi,2a3563,2,Education,6,14,NA,Yes
+NA,female,25 - <30K,multi,2a3563,3,Education,NA,4,NA,No
+NA,female,25 - <30K,multi,2a3563,4,Education,6,2,54.2,No
+Row house,female,10 - <15K,Black,2b8324,0,Education,7,3,0.05,Yes
+NA,female,10 - <15K,Black,2b8324,1,Education,8,7,NA,Yes
+NA,female,10 - <15K,Black,2b8324,2,Education,8,14,NA,Yes
+NA,female,10 - <15K,Black,2b8324,3,Education,8,10,NA,Yes
+NA,female,10 - <15K,Black,2b8324,4,Education,8,3,0.05,Yes
+Detached house,male,30 - <35K,multi,2bc87b,0,Education,6,10,3.88,Yes
+NA,male,30 - <35K,multi,2bc87b,1,Education,7,2,NA,Yes
+NA,male,30 - <35K,multi,2bc87b,2,Education,7,0,NA,No
+NA,male,30 - <35K,multi,2bc87b,3,Education,7,7,NA,Yes
+NA,male,30 - <35K,multi,2bc87b,4,Education,8,8,1.67,Yes
+Row house,male,10 - <15K,Black,2d4b1d,0,IPM,6,2,11.6,Yes
+NA,male,10 - <15K,Black,2d4b1d,1,IPM,6,3,NA,Yes
+NA,male,10 - <15K,Black,2d4b1d,2,IPM,7,3,NA,No
+NA,male,10 - <15K,Black,2d4b1d,3,IPM,7,3,NA,No
+NA,male,10 - <15K,Black,2d4b1d,4,IPM,7,1,4.87,No
+Row house,male,25 - <30K,Black,2f59ad,0,Education,7,0,100,Yes
+NA,male,25 - <30K,Black,2f59ad,1,Education,7,3,NA,Yes
+NA,male,25 - <30K,Black,2f59ad,2,Education,8,8,NA,Yes
+NA,male,25 - <30K,Black,2f59ad,3,Education,8,0,NA,No
+NA,male,25 - <30K,Black,2f59ad,4,Education,8,1,100,Yes
+Apartment,female,don't know,White,302caf,0,Education,8,0,45.7,Yes
+NA,female,don't know,White,302caf,1,Education,9,0,NA,Yes
+NA,female,don't know,White,302caf,2,Education,NA,NA,NA,Yes
+NA,female,don't know,White,302caf,3,Education,9,0,NA,Yes
+NA,female,don't know,White,302caf,4,Education,NA,NA,NA,Yes
+Row house,male,10 - <15K,Black,30a5e6,0,Education,6,2,89.9,Yes
+NA,male,10 - <15K,Black,30a5e6,1,Education,7,4,NA,Yes
+NA,male,10 - <15K,Black,30a5e6,2,Education,7,0,NA,Yes
+NA,male,10 - <15K,Black,30a5e6,3,Education,7,2,NA,Yes
+NA,male,10 - <15K,Black,30a5e6,4,Education,7,0,19,Yes
+Apartment,male,<5K,Black,30e0c3,0,Education,13,0,27.6,Yes
+NA,male,<5K,Black,30e0c3,1,Education,13,5,NA,Yes
+NA,male,<5K,Black,30e0c3,2,Education,13,7,NA,Yes
+NA,male,<5K,Black,30e0c3,3,Education,14,0,NA,Yes
+NA,male,<5K,Black,30e0c3,4,Education,14,0,2.92,No
+Row house,male,10 - <15K,Black,31185e,0,IPM,8,4,58.7,Yes
+NA,male,10 - <15K,Black,31185e,1,IPM,8,10,NA,Yes
+NA,male,10 - <15K,Black,31185e,2,IPM,8,14,NA,No
+NA,male,10 - <15K,Black,31185e,3,IPM,8,14,NA,No
+NA,male,10 - <15K,Black,31185e,4,IPM,9,0,19.4,No
+Detached house,male,20 - <25K,Black,312922,0,IPM,13,2,16.3,Yes
+NA,male,20 - <25K,Black,312922,1,IPM,13,2,NA,Yes
+NA,male,20 - <25K,Black,312922,2,IPM,13,0,NA,No
+NA,male,20 - <25K,Black,312922,3,IPM,13,0,NA,Yes
+NA,male,20 - <25K,Black,312922,4,IPM,14,0,52.3,Yes
+Row house,male,15 - <20K,Black,31dda5,0,Education,8,14,9.45,No
+NA,male,15 - <20K,Black,31dda5,1,Education,9,5,NA,No
+Row house,male,5 - <10K,Black,31ee10,0,Education,7,1,0.17,Yes
+NA,male,5 - <10K,Black,31ee10,1,Education,7,2,NA,No
+NA,male,5 - <10K,Black,31ee10,2,Education,7,1,NA,No
+NA,male,5 - <10K,Black,31ee10,3,Education,7,2,NA,No
+NA,male,5 - <10K,Black,31ee10,4,Education,8,0,0.05,Yes
+Detached house,male,>50K,Black,320adf,0,Education,11,0,25.4,Yes
+NA,male,>50K,Black,320adf,1,Education,11,0,NA,Yes
+NA,male,>50K,Black,320adf,2,Education,12,0,NA,No
+NA,male,>50K,Black,320adf,3,Education,12,6,NA,No
+NA,male,>50K,Black,320adf,4,Education,12,3,22.9,Yes
+Apartment,male,don't know,White,320ce5,0,IPM,8,0,100,Yes
+NA,male,don't know,White,320ce5,1,IPM,8,0,NA,No
+NA,male,don't know,White,320ce5,2,IPM,9,14,NA,No
+NA,male,don't know,White,320ce5,3,IPM,9,4,NA,Yes
+NA,male,don't know,White,320ce5,4,IPM,9,2,100,No
+Row house,female,20 - <25K,Black,325e07,0,IPM,7,6,24.1,Yes
+NA,female,20 - <25K,Black,325e07,1,IPM,8,2,NA,Yes
+Row house,male,25 - <30K,Black,32c9bf,0,Education,7,3,26.2,Yes
+NA,male,25 - <30K,Black,32c9bf,1,Education,7,0,NA,Yes
+NA,male,25 - <30K,Black,32c9bf,2,Education,7,0,NA,No
+NA,male,25 - <30K,Black,32c9bf,3,Education,7,0,NA,No
+NA,male,25 - <30K,Black,32c9bf,4,Education,8,0,8.09,No
+Row house end of group,female,25 - <30K,Black,336ddf,0,Education,15,2,0.05,Yes
+NA,female,25 - <30K,Black,336ddf,1,Education,16,2,NA,Yes
+NA,female,25 - <30K,Black,336ddf,2,Education,16,4,NA,Yes
+NA,female,25 - <30K,Black,336ddf,3,Education,16,0,NA,Yes
+NA,female,25 - <30K,Black,336ddf,4,Education,16,0,0.05,No
+Apartment,male,10 - <15K,unknown,341d9f,0,Education,9,1,100,Yes
+NA,male,10 - <15K,unknown,341d9f,1,Education,9,3,NA,No
+NA,male,10 - <15K,unknown,341d9f,2,Education,10,2,NA,Yes
+Apartment,female,<5K,Black,37ba1d,0,IPM,11,2,100,Yes
+NA,female,<5K,Black,37ba1d,1,IPM,11,14,NA,Yes
+NA,female,<5K,Black,37ba1d,2,IPM,11,2,NA,Yes
+NA,female,<5K,Black,37ba1d,3,IPM,11,3,NA,Yes
+NA,female,<5K,Black,37ba1d,4,IPM,12,2,63.8,Yes
+Apartment,female,20 - <25K,White,37deaf,0,Education,9,14,0.66,No
+NA,female,20 - <25K,White,37deaf,1,Education,9,0,NA,No
+NA,female,20 - <25K,White,37deaf,2,Education,9,2,NA,No
+NA,female,20 - <25K,White,37deaf,3,Education,9,1,NA,No
+NA,female,20 - <25K,White,37deaf,4,Education,10,3,0.64,No
+Apartment,female,<5K,Black,3ade0b,0,IPM,16,2,7.02,Yes
+NA,female,<5K,Black,3ade0b,1,IPM,16,4,NA,Yes
+NA,female,<5K,Black,3ade0b,2,IPM,16,4,NA,Yes
+NA,female,<5K,Black,3ade0b,3,IPM,16,1,NA,Yes
+NA,female,<5K,Black,3ade0b,4,IPM,17,5,2.58,Yes
+Row house,male,25 - <30K,Black,3b6a3f,0,IPM,9,0,0.05,Yes
+NA,male,25 - <30K,Black,3b6a3f,1,IPM,9,0,NA,Yes
+NA,male,25 - <30K,Black,3b6a3f,2,IPM,9,2,NA,Yes
+NA,male,25 - <30K,Black,3b6a3f,3,IPM,9,2,NA,Yes
+NA,male,25 - <30K,Black,3b6a3f,4,IPM,10,1,0.05,No
+Duplex/semi-detached,female,>50K,Black,3c0b63,0,Education,12,3,100,Yes
+NA,female,>50K,Black,3c0b63,1,Education,12,3,NA,Yes
+Row house,male,<5K,multi,3ce565,0,Education,13,0,0.21,Yes
+NA,male,<5K,multi,3ce565,1,Education,14,2,NA,Yes
+NA,male,<5K,multi,3ce565,2,Education,14,0,NA,Yes
+NA,male,<5K,multi,3ce565,3,Education,14,2,NA,Yes
+NA,male,<5K,multi,3ce565,4,Education,14,0,0.52,Yes
+Row house,female,35 - <40K,Black,3d1b49,0,IPM,10,2,62.6,Yes
+NA,female,35 - <40K,Black,3d1b49,1,IPM,10,8,NA,Yes
+NA,female,35 - <40K,Black,3d1b49,2,IPM,11,0,NA,Yes
+NA,female,35 - <40K,Black,3d1b49,3,IPM,11,2,NA,Yes
+NA,female,35 - <40K,Black,3d1b49,4,IPM,11,3,9.44,Yes
+Apartment,female,don't know,Black,3db714,0,IPM,11,1,23.3,Yes
+NA,female,don't know,Black,3db714,1,IPM,11,3,NA,No
+NA,female,don't know,Black,3db714,2,IPM,12,2,NA,No
+NA,female,don't know,Black,3db714,3,IPM,12,0,NA,No
+NA,female,don't know,Black,3db714,4,IPM,12,0,14.1,No
+Row house end of group,male,<5K,Black,3e4ac9,0,Education,6,4,1.68,Yes
+NA,male,<5K,Black,3e4ac9,1,Education,6,4,NA,Yes
+NA,male,<5K,Black,3e4ac9,2,Education,7,4,NA,Yes
+NA,male,<5K,Black,3e4ac9,3,Education,7,4,NA,Yes
+NA,male,<5K,Black,3e4ac9,4,Education,7,4,0.65,Yes
+Apartment,male,<5K,Black,3f7456,0,Education,11,0,0.05,Yes
+NA,male,<5K,Black,3f7456,1,Education,12,0,NA,Yes
+NA,male,<5K,Black,3f7456,2,Education,12,1,NA,No
+NA,male,<5K,Black,3f7456,3,Education,12,0,NA,Yes
+NA,male,<5K,Black,3f7456,4,Education,13,0,0.05,No
+Row house,male,>50K,White,40e057,0,Education,8,7,0.29,Yes
+NA,male,>50K,White,40e057,1,Education,8,0,NA,Yes
+NA,male,>50K,White,40e057,2,Education,NA,NA,NA,Yes
+Duplex/semi-detached,female,<5K,Black,4142b7,0,Education,9,0,0.05,Yes
+NA,female,<5K,Black,4142b7,1,Education,9,10,NA,Yes
+NA,female,<5K,Black,4142b7,2,Education,NA,NA,NA,Yes
+NA,female,<5K,Black,4142b7,3,Education,9,3,NA,Yes
+NA,female,<5K,Black,4142b7,4,Education,NA,NA,NA,Yes
+Row house,male,10 - <15K,Black,416841,0,IPM,13,2,4.04,Yes
+NA,male,10 - <15K,Black,416841,1,IPM,13,2,NA,Yes
+NA,male,10 - <15K,Black,416841,2,IPM,13,1,NA,No
+NA,male,10 - <15K,Black,416841,3,IPM,14,0,NA,Yes
+Row house,male,15 - <20K,Black,43211c,0,IPM,8,2,7.41,Yes
+NA,male,15 - <20K,Black,43211c,1,IPM,8,3,NA,Yes
+NA,male,15 - <20K,Black,43211c,2,IPM,8,0,NA,Yes
+Duplex/semi-detached,male,>50K,Black,45bfb3,0,Education,11,6,24,Yes
+NA,male,>50K,Black,45bfb3,1,Education,12,0,NA,Yes
+NA,male,>50K,Black,45bfb3,2,Education,12,0,NA,No
+NA,male,>50K,Black,45bfb3,3,Education,12,0,NA,Yes
+NA,male,>50K,Black,45bfb3,4,Education,NA,NA,NA,Yes
+Row house,female,10 - <15K,Black,46b9a4,0,Education,6,0,100,Yes
+NA,female,10 - <15K,Black,46b9a4,1,Education,6,2,NA,No
+NA,female,10 - <15K,Black,46b9a4,2,Education,7,2,NA,Yes
+NA,female,10 - <15K,Black,46b9a4,3,Education,7,2,NA,Yes
+NA,female,10 - <15K,Black,46b9a4,4,Education,7,0,100,Yes
+Detached house,female,25 - <30K,Black,47057f,0,IPM,7,0,0.61,Yes
+NA,female,25 - <30K,Black,47057f,1,IPM,7,1,NA,Yes
+NA,female,25 - <30K,Black,47057f,2,IPM,8,2,NA,Yes
+NA,female,25 - <30K,Black,47057f,3,IPM,8,1,NA,Yes
+NA,female,25 - <30K,Black,47057f,4,IPM,8,0,0.33,Yes
+Apartment,female,25 - <30K,Black,4767be,0,Education,13,0,8.73,Yes
+NA,female,25 - <30K,Black,4767be,1,Education,14,3,NA,Yes
+NA,female,25 - <30K,Black,4767be,2,Education,14,0,NA,Yes
+NA,female,25 - <30K,Black,4767be,3,Education,14,0,NA,Yes
+NA,female,25 - <30K,Black,4767be,4,Education,14,0,14.9,Yes
+Row house,male,10 - <15K,Black,483050,0,IPM,8,4,27.6,Yes
+NA,male,10 - <15K,Black,483050,1,IPM,8,2,NA,Yes
+NA,male,10 - <15K,Black,483050,2,IPM,8,14,NA,Yes
+NA,male,10 - <15K,Black,483050,3,IPM,8,14,NA,Yes
+NA,male,10 - <15K,Black,483050,4,IPM,9,3,9.42,No
+Row house,male,10 - <15K,Black,48e1fe,0,IPM,7,0,33.9,Yes
+NA,male,10 - <15K,Black,48e1fe,1,IPM,7,0,NA,Yes
+NA,male,10 - <15K,Black,48e1fe,2,IPM,8,0,NA,No
+NA,male,10 - <15K,Black,48e1fe,3,IPM,8,0,NA,Yes
+NA,male,10 - <15K,Black,48e1fe,4,IPM,8,4,53.8,Yes
+Row house end of group,male,45 - <50K,Black,490914,0,IPM,18,0,1.31,Yes
+NA,male,45 - <50K,Black,490914,1,IPM,18,0,NA,Yes
+NA,male,45 - <50K,Black,490914,2,IPM,18,0,NA,Yes
+NA,male,45 - <50K,Black,490914,3,IPM,19,0,NA,Yes
+NA,male,45 - <50K,Black,490914,4,IPM,19,0,5.7,Yes
+Apartment,male,10 - <15K,Black,4973b7,0,IPM,7,2,22.8,Yes
+NA,male,10 - <15K,Black,4973b7,1,IPM,7,12,NA,No
+NA,male,10 - <15K,Black,4973b7,2,IPM,7,14,NA,No
+NA,male,10 - <15K,Black,4973b7,3,IPM,8,4,NA,No
+NA,male,10 - <15K,Black,4973b7,4,IPM,8,14,2.72,No
+Detached house,female,35 - <40K,Black,49a0db,0,IPM,8,5,10.4,Yes
+NA,female,35 - <40K,Black,49a0db,1,IPM,9,3,NA,Yes
+NA,female,35 - <40K,Black,49a0db,2,IPM,9,3,NA,Yes
+NA,female,35 - <40K,Black,49a0db,3,IPM,9,3,NA,Yes
+NA,female,35 - <40K,Black,49a0db,4,IPM,9,7,2.29,Yes
+Detached house,male,<5K,Black,4a75fe,0,IPM,7,0,23.7,Yes
+NA,male,<5K,Black,4a75fe,1,IPM,7,0,NA,Yes
+NA,male,<5K,Black,4a75fe,2,IPM,7,2,NA,No
+NA,male,<5K,Black,4a75fe,3,IPM,7,2,NA,Yes
+NA,male,<5K,Black,4a75fe,4,IPM,8,1,5.99,Yes
+Row house end of group,female,10 - <15K,Black,4ac985,0,IPM,8,14,100,Yes
+NA,female,10 - <15K,Black,4ac985,1,IPM,8,4,NA,Yes
+NA,female,10 - <15K,Black,4ac985,2,IPM,8,10,NA,Yes
+NA,female,10 - <15K,Black,4ac985,3,IPM,8,8,NA,Yes
+NA,female,10 - <15K,Black,4ac985,4,IPM,9,14,100,No
+Row house,male,15 - <20K,Black,4ba83a,0,Education,8,1,2.51,Yes
+NA,male,15 - <20K,Black,4ba83a,1,Education,9,2,NA,Yes
+NA,male,15 - <20K,Black,4ba83a,2,Education,9,1,NA,Yes
+NA,male,15 - <20K,Black,4ba83a,3,Education,9,2,NA,Yes
+NA,male,15 - <20K,Black,4ba83a,4,Education,10,3,11.8,Yes
+Apartment,male,30 - <35K,Black,4c0dbc,0,IPM,8,4,6.95,Yes
+NA,male,30 - <35K,Black,4c0dbc,1,IPM,8,4,NA,Yes
+NA,male,30 - <35K,Black,4c0dbc,2,IPM,8,6,NA,Yes
+NA,male,30 - <35K,Black,4c0dbc,3,IPM,8,9,NA,No
+NA,male,30 - <35K,Black,4c0dbc,4,IPM,9,10,5.45,No
+Detached house,male,don't know,White,4cb62a,0,IPM,10,0,100,No
+NA,male,don't know,White,4cb62a,1,IPM,10,0,NA,Yes
+NA,male,don't know,White,4cb62a,2,IPM,10,2,NA,Yes
+NA,male,don't know,White,4cb62a,3,IPM,11,1,NA,Yes
+NA,male,don't know,White,4cb62a,4,IPM,11,0,84.5,Yes
+Apartment,male,45 - <50K,Black,4d41e7,0,Education,8,3,100,Yes
+NA,male,45 - <50K,Black,4d41e7,1,Education,8,2,NA,Yes
+NA,male,45 - <50K,Black,4d41e7,2,Education,8,0,NA,Yes
+NA,male,45 - <50K,Black,4d41e7,3,Education,9,0,NA,Yes
+NA,male,45 - <50K,Black,4d41e7,4,Education,9,0,79,Yes
+Row house,male,20 - <25K,Black,4d66e1,0,IPM,11,3,0.05,Yes
+NA,male,20 - <25K,Black,4d66e1,1,IPM,11,3,NA,Yes
+NA,male,20 - <25K,Black,4d66e1,2,IPM,11,3,NA,Yes
+NA,male,20 - <25K,Black,4d66e1,3,IPM,11,3,NA,Yes
+NA,male,20 - <25K,Black,4d66e1,4,IPM,12,3,0.05,Yes
+Row house,female,5 - <10K,Black,4d83c5,0,Education,11,3,35.4,Yes
+NA,female,5 - <10K,Black,4d83c5,1,Education,12,2,NA,Yes
+NA,female,5 - <10K,Black,4d83c5,2,Education,12,0,NA,Yes
+NA,female,5 - <10K,Black,4d83c5,3,Education,12,0,NA,Yes
+NA,female,5 - <10K,Black,4d83c5,4,Education,13,2,17.1,Yes
+Row house,male,15 - <20K,Black,4da0a7,0,IPM,7,3,0.15,Yes
+NA,male,15 - <20K,Black,4da0a7,1,IPM,7,4,NA,No
+Row house,female,5 - <10K,Black,4f505e,0,IPM,8,3,32.3,Yes
+NA,female,5 - <10K,Black,4f505e,1,IPM,8,4,NA,Yes
+NA,female,5 - <10K,Black,4f505e,2,IPM,9,3,NA,Yes
+NA,female,5 - <10K,Black,4f505e,3,IPM,9,0,NA,Yes
+NA,female,5 - <10K,Black,4f505e,4,IPM,9,0,7.61,Yes
+Row house end of group,female,10 - <15K,Black,51f1e6,0,Education,16,0,8.96,Yes
+NA,female,10 - <15K,Black,51f1e6,1,Education,17,14,NA,Yes
+NA,female,10 - <15K,Black,51f1e6,2,Education,17,2,NA,Yes
+NA,female,10 - <15K,Black,51f1e6,3,Education,17,6,NA,Yes
+NA,female,10 - <15K,Black,51f1e6,4,Education,18,10,9.31,Yes
+Row house,female,30 - <35K,Black,527f01,0,Education,8,5,51.1,Yes
+NA,female,30 - <35K,Black,527f01,1,Education,8,0,NA,No
+NA,female,30 - <35K,Black,527f01,2,Education,8,6,NA,No
+NA,female,30 - <35K,Black,527f01,3,Education,8,6,NA,Yes
+NA,female,30 - <35K,Black,527f01,4,Education,9,4,27.4,Yes
+Row house,female,>50K,multi,52ea4f,0,IPM,9,0,42,Yes
+NA,female,>50K,multi,52ea4f,1,IPM,9,0,NA,Yes
+NA,female,>50K,multi,52ea4f,2,IPM,9,1,NA,No
+NA,female,>50K,multi,52ea4f,3,IPM,9,0,NA,No
+NA,female,>50K,multi,52ea4f,4,IPM,10,0,16.2,Yes
+Row house,male,10 - <15K,Black,53459d,0,Education,15,0,3.76,No
+NA,male,10 - <15K,Black,53459d,1,Education,15,3,NA,No
+NA,male,10 - <15K,Black,53459d,2,Education,16,2,NA,Yes
+NA,male,10 - <15K,Black,53459d,3,Education,16,1,NA,No
+NA,male,10 - <15K,Black,53459d,4,Education,16,0,1.18,Yes
+Row house,male,40 - <45K,Black,541ff2,0,Education,12,12,4.18,Yes
+NA,male,40 - <45K,Black,541ff2,1,Education,12,12,NA,Yes
+NA,male,40 - <45K,Black,541ff2,2,Education,12,10,NA,Yes
+NA,male,40 - <45K,Black,541ff2,3,Education,13,14,NA,Yes
+NA,male,40 - <45K,Black,541ff2,4,Education,13,12,13.5,Yes
+Row house,male,>50K,Black,54a327,0,Education,13,1,6.84,Yes
+NA,male,>50K,Black,54a327,1,Education,13,0,NA,Yes
+NA,male,>50K,Black,54a327,2,Education,14,3,NA,Yes
+NA,male,>50K,Black,54a327,3,Education,14,2,NA,No
+NA,male,>50K,Black,54a327,4,Education,14,0,0.96,No
+Apartment,male,20 - <25K,Black,57a97c,0,IPM,6,2,4.41,Yes
+NA,male,20 - <25K,Black,57a97c,1,IPM,7,2,NA,Yes
+NA,male,20 - <25K,Black,57a97c,2,IPM,7,2,NA,Yes
+NA,male,20 - <25K,Black,57a97c,3,IPM,7,0,NA,Yes
+NA,male,20 - <25K,Black,57a97c,4,IPM,8,0,4.34,Yes
+Apartment,female,>50K,multi,5a3616,0,IPM,10,3,38,Yes
+NA,female,>50K,multi,5a3616,1,IPM,11,0,NA,Yes
+NA,female,>50K,multi,5a3616,2,IPM,11,0,NA,No
+NA,female,>50K,multi,5a3616,3,IPM,11,0,NA,No
+NA,female,>50K,multi,5a3616,4,IPM,11,4,36.3,Yes
+Row house,female,don't know,Black,5ba7c4,0,Education,13,0,38.3,Yes
+NA,female,don't know,Black,5ba7c4,1,Education,13,2,NA,Yes
+NA,female,don't know,Black,5ba7c4,2,Education,14,0,NA,No
+NA,female,don't know,Black,5ba7c4,3,Education,14,2,NA,No
+NA,female,don't know,Black,5ba7c4,4,Education,14,0,10.2,No
+Apartment,male,5 - <10K,Black,5c2ec8,0,IPM,6,1,100,Yes
+NA,male,5 - <10K,Black,5c2ec8,1,IPM,7,4,NA,No
+NA,male,5 - <10K,Black,5c2ec8,2,IPM,7,10,NA,No
+NA,male,5 - <10K,Black,5c2ec8,3,IPM,7,0,NA,No
+NA,male,5 - <10K,Black,5c2ec8,4,IPM,7,7,100,No
+Row house,female,5 - <10K,Black,5c503d,0,Education,15,3,0.37,Yes
+NA,female,5 - <10K,Black,5c503d,1,Education,16,0,NA,Yes
+NA,female,5 - <10K,Black,5c503d,2,Education,16,4,NA,Yes
+NA,female,5 - <10K,Black,5c503d,3,Education,16,3,NA,Yes
+NA,female,5 - <10K,Black,5c503d,4,Education,16,3,2.24,Yes
+Row house,male,35 - <40K,Black,5d9249,0,IPM,7,8,8.02,Yes
+NA,male,35 - <40K,Black,5d9249,1,IPM,8,0,NA,Yes
+NA,male,35 - <40K,Black,5d9249,2,IPM,8,1,NA,Yes
+NA,male,35 - <40K,Black,5d9249,3,IPM,8,14,NA,Yes
+NA,male,35 - <40K,Black,5d9249,4,IPM,8,3,2.99,Yes
+Row house,female,25 - <30K,Black,5e9c8b,0,IPM,14,2,9.32,Yes
+NA,female,25 - <30K,Black,5e9c8b,1,IPM,14,3,NA,Yes
+NA,female,25 - <30K,Black,5e9c8b,2,IPM,14,0,NA,Yes
+NA,female,25 - <30K,Black,5e9c8b,3,IPM,15,3,NA,Yes
+NA,female,25 - <30K,Black,5e9c8b,4,IPM,15,4,27.7,No
+Detached house,female,<5K,Black,5f26a4,0,IPM,12,14,17.4,Yes
+NA,female,<5K,Black,5f26a4,1,IPM,12,5,NA,Yes
+NA,female,<5K,Black,5f26a4,2,IPM,13,3,NA,No
+NA,female,<5K,Black,5f26a4,3,IPM,13,0,NA,No
+NA,female,<5K,Black,5f26a4,4,IPM,13,0,6.91,Yes
+Detached house,male,<5K,multi,5fc81b,0,IPM,8,0,1.51,No
+NA,male,<5K,multi,5fc81b,1,IPM,8,0,NA,No
+NA,male,<5K,multi,5fc81b,2,IPM,8,0,NA,No
+NA,male,<5K,multi,5fc81b,3,IPM,9,0,NA,No
+NA,male,<5K,multi,5fc81b,4,IPM,9,0,0.65,Yes
+Row house,male,45 - <50K,Black,61223d,0,IPM,8,1,15.4,Yes
+NA,male,45 - <50K,Black,61223d,1,IPM,8,3,NA,Yes
+NA,male,45 - <50K,Black,61223d,2,IPM,8,4,NA,Yes
+Row house end of group,male,<5K,Black,61f483,0,Education,12,14,28.3,Yes
+NA,male,<5K,Black,61f483,1,Education,12,14,NA,Yes
+NA,male,<5K,Black,61f483,2,Education,12,14,NA,Yes
+NA,male,<5K,Black,61f483,3,Education,13,4,NA,Yes
+NA,male,<5K,Black,61f483,4,Education,13,0,9.34,Yes
+Row house,female,10 - <15K,Black,636ea4,0,IPM,7,1,19.8,Yes
+NA,female,10 - <15K,Black,636ea4,1,IPM,7,0,NA,Yes
+NA,female,10 - <15K,Black,636ea4,2,IPM,8,0,NA,Yes
+NA,female,10 - <15K,Black,636ea4,3,IPM,8,0,NA,Yes
+NA,female,10 - <15K,Black,636ea4,4,IPM,8,0,21.9,Yes
+Row house,male,25 - <30K,Black,638f47,0,IPM,18,14,0.05,Yes
+NA,male,25 - <30K,Black,638f47,1,IPM,18,6,NA,Yes
+NA,male,25 - <30K,Black,638f47,3,IPM,19,2,NA,Yes
+Row house,male,10 - <15K,Black,6395eb,0,IPM,11,4,25.7,Yes
+NA,male,10 - <15K,Black,6395eb,1,IPM,12,0,NA,Yes
+NA,male,10 - <15K,Black,6395eb,2,IPM,12,5,NA,Yes
+NA,male,10 - <15K,Black,6395eb,3,IPM,12,0,NA,Yes
+NA,male,10 - <15K,Black,6395eb,4,IPM,12,7,15.7,Yes
+Row house,female,<5K,Black,63daac,0,IPM,8,5,2.98,No
+NA,female,<5K,Black,63daac,1,IPM,8,3,NA,Yes
+NA,female,<5K,Black,63daac,2,IPM,8,0,NA,Yes
+NA,female,<5K,Black,63daac,3,IPM,9,3,NA,No
+NA,female,<5K,Black,63daac,4,IPM,9,2,0.93,No
+Row house,female,40 - <45K,Black,641fa1,0,Education,6,14,9.01,Yes
+NA,female,40 - <45K,Black,641fa1,1,Education,7,3,NA,Yes
+NA,female,40 - <45K,Black,641fa1,2,Education,7,2,NA,Yes
+NA,female,40 - <45K,Black,641fa1,3,Education,7,2,NA,Yes
+NA,female,40 - <45K,Black,641fa1,4,Education,7,2,0.87,No
+Apartment,male,don't know,White,6530f6,0,Education,7,0,67,Yes
+NA,male,don't know,White,6530f6,1,Education,7,0,NA,Yes
+NA,male,don't know,White,6530f6,2,Education,8,0,NA,Yes
+NA,male,don't know,White,6530f6,3,Education,8,14,NA,Yes
+NA,male,don't know,White,6530f6,4,Education,8,0,15.9,No
+Apartment,male,10 - <15K,White,65738f,0,Education,7,7,100,No
+NA,male,10 - <15K,White,65738f,1,Education,7,14,NA,Yes
+NA,male,10 - <15K,White,65738f,2,Education,8,0,NA,Yes
+NA,male,10 - <15K,White,65738f,3,Education,8,4,NA,Yes
+NA,male,10 - <15K,White,65738f,4,Education,8,6,72.6,Yes
+Detached house,male,>50K,Black,66b717,0,IPM,15,12,36.8,Yes
+NA,male,>50K,Black,66b717,1,IPM,15,5,NA,Yes
+NA,male,>50K,Black,66b717,2,IPM,15,0,NA,No
+NA,male,>50K,Black,66b717,3,IPM,16,2,NA,No
+NA,male,>50K,Black,66b717,4,IPM,16,0,28.8,No
+Duplex/semi-detached,female,30 - <35K,Black,6730dd,0,Education,15,0,1.84,Yes
+NA,female,30 - <35K,Black,6730dd,1,Education,15,3,NA,Yes
+NA,female,30 - <35K,Black,6730dd,2,Education,16,0,NA,Yes
+NA,female,30 - <35K,Black,6730dd,3,Education,16,14,NA,Yes
+NA,female,30 - <35K,Black,6730dd,4,Education,16,0,0.2,Yes
+Apartment,male,<5K,Black,67b135,0,IPM,8,3,89.5,Yes
+NA,male,<5K,Black,67b135,1,IPM,8,3,NA,No
+NA,male,<5K,Black,67b135,2,IPM,9,1,NA,Yes
+NA,male,<5K,Black,67b135,3,IPM,9,0,NA,Yes
+NA,male,<5K,Black,67b135,4,IPM,9,3,58,No
+Duplex/semi-detached,male,20 - <25K,White,683886,0,Education,13,4,2.89,Yes
+NA,male,20 - <25K,White,683886,1,Education,13,2,NA,Yes
+NA,male,20 - <25K,White,683886,2,Education,13,1,NA,Yes
+NA,male,20 - <25K,White,683886,3,Education,13,14,NA,No
+NA,male,20 - <25K,White,683886,4,Education,14,7,3.04,Yes
+Row house,male,5 - <10K,Black,69a0d1,0,Education,15,0,91.7,Yes
+NA,male,5 - <10K,Black,69a0d1,1,Education,15,0,NA,Yes
+NA,male,5 - <10K,Black,69a0d1,2,Education,15,1,NA,Yes
+NA,male,5 - <10K,Black,69a0d1,3,Education,16,3,NA,Yes
+NA,male,5 - <10K,Black,69a0d1,4,Education,16,0,100,Yes
+Row house,female,30 - <35K,Black,6a618d,0,IPM,17,4,19.8,No
+NA,female,30 - <35K,Black,6a618d,1,IPM,18,4,NA,No
+NA,female,30 - <35K,Black,6a618d,2,IPM,18,3,NA,No
+NA,female,30 - <35K,Black,6a618d,3,IPM,18,2,NA,No
+NA,female,30 - <35K,Black,6a618d,4,IPM,18,14,35,No
+Duplex/semi-detached,male,25 - <30K,White,6a9ade,0,IPM,12,3,0.7,Yes
+NA,male,25 - <30K,White,6a9ade,1,IPM,12,3,NA,Yes
+NA,male,25 - <30K,White,6a9ade,2,IPM,12,0,NA,Yes
+NA,male,25 - <30K,White,6a9ade,3,IPM,13,0,NA,Yes
+NA,male,25 - <30K,White,6a9ade,4,IPM,13,0,0.35,Yes
+Apartment,male,20 - <25K,Black,6ae2db,0,Education,11,1,0.05,Yes
+NA,male,20 - <25K,Black,6ae2db,1,Education,11,0,NA,Yes
+NA,male,20 - <25K,Black,6ae2db,2,Education,12,0,NA,No
+NA,male,20 - <25K,Black,6ae2db,3,Education,12,0,NA,No
+NA,male,20 - <25K,Black,6ae2db,4,Education,12,0,0.05,No
+Apartment,male,5 - <10K,multi,6afa19,0,Education,9,3,8.31,Yes
+NA,male,5 - <10K,multi,6afa19,1,Education,10,2,NA,Yes
+NA,male,5 - <10K,multi,6afa19,2,Education,10,5,NA,Yes
+NA,male,5 - <10K,multi,6afa19,3,Education,10,2,NA,Yes
+NA,male,5 - <10K,multi,6afa19,4,Education,10,0,0.64,Yes
+Apartment,female,5 - <10K,Black,6b8de7,0,Education,7,2,92,Yes
+NA,female,5 - <10K,Black,6b8de7,1,Education,8,3,NA,Yes
+NA,female,5 - <10K,Black,6b8de7,2,Education,8,2,NA,Yes
+NA,female,5 - <10K,Black,6b8de7,3,Education,8,3,NA,Yes
+NA,female,5 - <10K,Black,6b8de7,4,Education,8,3,100,No
+Duplex/semi-detached,male,25 - <30K,multi,6c468a,0,Education,11,2,46.15,Yes
+NA,male,25 - <30K,multi,6c468a,1,Education,12,7,NA,Yes
+NA,male,25 - <30K,multi,6c468a,2,Education,12,4,NA,Yes
+NA,male,25 - <30K,multi,6c468a,3,Education,12,0,NA,Yes
+NA,male,25 - <30K,multi,6c468a,4,Education,NA,NA,NA,Yes
+Row house,female,30 - <35K,Black,6c5baf,0,IPM,17,11,0.05,Yes
+NA,female,30 - <35K,Black,6c5baf,1,IPM,17,14,NA,No
+NA,female,30 - <35K,Black,6c5baf,2,IPM,17,14,NA,Yes
+NA,female,30 - <35K,Black,6c5baf,3,IPM,18,4,NA,Yes
+NA,female,30 - <35K,Black,6c5baf,4,IPM,18,14,0.05,Yes
+Duplex/semi-detached,female,30 - <35K,Black,6ca050,0,IPM,6,4,3.87,Yes
+NA,female,30 - <35K,Black,6ca050,1,IPM,4,0,NA,No
+Duplex/semi-detached,male,>50K,Black,6cafd8,0,Education,10,0,0.05,No
+NA,male,>50K,Black,6cafd8,1,Education,10,5,NA,No
+NA,male,>50K,Black,6cafd8,2,Education,10,0,NA,Yes
+NA,male,>50K,Black,6cafd8,3,Education,10,14,NA,Yes
+NA,male,>50K,Black,6cafd8,4,Education,11,0,0.05,Yes
+Row house end of group,male,<5K,Black,6cd3cd,0,IPM,7,4,1.91,Yes
+NA,male,<5K,Black,6cd3cd,1,IPM,7,7,NA,Yes
+NA,male,<5K,Black,6cd3cd,2,IPM,7,0,NA,Yes
+NA,male,<5K,Black,6cd3cd,3,IPM,7,3,NA,Yes
+NA,male,<5K,Black,6cd3cd,4,IPM,NA,NA,NA,Yes
+Row house,female,<5K,Black,6fea13,0,Education,9,0,54.7,Yes
+NA,female,<5K,Black,6fea13,1,Education,9,2,NA,Yes
+NA,female,<5K,Black,6fea13,2,Education,9,1,NA,Yes
+NA,female,<5K,Black,6fea13,3,Education,9,0,NA,No
+NA,female,<5K,Black,6fea13,4,Education,10,6,8.02,Yes
+Duplex/semi-detached,female,>50K,White,70a5ab,0,IPM,16,11,0.13,Yes
+NA,female,>50K,White,70a5ab,1,IPM,17,5,NA,Yes
+NA,female,>50K,White,70a5ab,2,IPM,17,1,NA,No
+NA,female,>50K,White,70a5ab,3,IPM,17,2,NA,No
+NA,female,>50K,White,70a5ab,4,IPM,17,14,0.11,No
+Detached house,male,40 - <45K,multi,711735,0,Education,11,3,100,Yes
+NA,male,40 - <45K,multi,711735,1,Education,12,0,NA,Yes
+NA,male,40 - <45K,multi,711735,2,Education,12,2,NA,Yes
+NA,male,40 - <45K,multi,711735,3,Education,12,3,NA,Yes
+NA,male,40 - <45K,multi,711735,4,Education,12,2,25.9,Yes
+Row house end of group,male,5 - <10K,Black,725684,0,IPM,14,0,0.05,No
+NA,male,5 - <10K,Black,725684,1,IPM,14,1,NA,Yes
+NA,male,5 - <10K,Black,725684,2,IPM,15,0,NA,No
+NA,male,5 - <10K,Black,725684,3,IPM,NA,NA,NA,Yes
+Row house,male,25 - <30K,Black,72eacd,0,IPM,7,3,57.8,Yes
+NA,male,25 - <30K,Black,72eacd,1,IPM,7,2,NA,Yes
+NA,male,25 - <30K,Black,72eacd,2,IPM,7,0,NA,Yes
+NA,male,25 - <30K,Black,72eacd,3,IPM,7,0,NA,No
+NA,male,25 - <30K,Black,72eacd,4,IPM,8,4,22.2,Yes
+Apartment,male,5 - <10K,Black,741e32,0,IPM,13,8,3.02,Yes
+NA,male,5 - <10K,Black,741e32,1,IPM,13,3,NA,No
+NA,male,5 - <10K,Black,741e32,2,IPM,NA,NA,NA,No
+Apartment,female,20 - <25K,Black,74b3a1,0,Education,8,2,40.2,Yes
+NA,female,20 - <25K,Black,74b3a1,1,Education,9,2,NA,Yes
+NA,female,20 - <25K,Black,74b3a1,2,Education,9,5,NA,Yes
+NA,female,20 - <25K,Black,74b3a1,3,Education,9,2,NA,Yes
+NA,female,20 - <25K,Black,74b3a1,4,Education,10,4,14.5,Yes
+Row house,male,<5K,Black,75a5f0,0,Education,6,2,0.25,Yes
+NA,male,<5K,Black,75a5f0,1,Education,7,3,NA,Yes
+NA,male,<5K,Black,75a5f0,2,Education,7,0,NA,Yes
+NA,male,<5K,Black,75a5f0,3,Education,7,0,NA,Yes
+NA,male,<5K,Black,75a5f0,4,Education,7,4,0.1,Yes
+Apartment,male,45 - <50K,Black,7701f8,0,Education,6,0,4.85,Yes
+NA,male,45 - <50K,Black,7701f8,1,Education,7,2,NA,No
+NA,male,45 - <50K,Black,7701f8,2,Education,7,1,NA,Yes
+NA,male,45 - <50K,Black,7701f8,3,Education,7,0,NA,Yes
+NA,male,45 - <50K,Black,7701f8,4,Education,6,1,0.45,Yes
+Apartment,female,5 - <10K,White,77718a,0,IPM,6,1,0.05,Yes
+NA,female,5 - <10K,White,77718a,1,IPM,7,1,NA,No
+NA,female,5 - <10K,White,77718a,2,IPM,7,2,NA,Yes
+NA,female,5 - <10K,White,77718a,3,IPM,7,3,NA,No
+NA,female,5 - <10K,White,77718a,4,IPM,8,0,0.05,No
+Detached house,female,refused,multi,777f80,0,Education,17,5,0.05,Yes
+NA,female,refused,multi,777f80,1,Education,18,1,NA,Yes
+NA,female,refused,multi,777f80,2,Education,18,14,NA,Yes
+NA,female,refused,multi,777f80,3,Education,18,14,NA,Yes
+NA,female,refused,multi,777f80,4,Education,19,2,0.19,Yes
+Apartment,male,35 - <40K,multi,77db7a,0,Education,7,3,2.09,Yes
+NA,male,35 - <40K,multi,77db7a,1,Education,8,4,NA,No
+NA,male,35 - <40K,multi,77db7a,2,Education,8,10,NA,No
+NA,male,35 - <40K,multi,77db7a,3,Education,8,3,NA,No
+Apartment,male,15 - <20K,Black,781062,0,IPM,5,0,67,Yes
+NA,male,15 - <20K,Black,781062,1,IPM,6,0,NA,Yes
+NA,male,15 - <20K,Black,781062,2,IPM,6,0,NA,Yes
+NA,male,15 - <20K,Black,781062,3,IPM,6,1,NA,Yes
+NA,male,15 - <20K,Black,781062,4,IPM,6,2,65.3,Yes
+Row house,male,10 - <15K,Black,7aef50,0,IPM,6,9,5.32,Yes
+NA,male,10 - <15K,Black,7aef50,1,IPM,6,7,NA,Yes
+NA,male,10 - <15K,Black,7aef50,2,IPM,7,7,NA,Yes
+NA,male,10 - <15K,Black,7aef50,3,IPM,7,10,NA,Yes
+NA,male,10 - <15K,Black,7aef50,4,IPM,7,8,0.13,Yes
+Row house,female,25 - <30K,Black,7b231a,0,Education,15,8,15.4,Yes
+NA,female,25 - <30K,Black,7b231a,1,Education,16,0,NA,No
+NA,female,25 - <30K,Black,7b231a,2,Education,16,0,NA,No
+NA,female,25 - <30K,Black,7b231a,3,Education,16,0,NA,Yes
+NA,female,25 - <30K,Black,7b231a,4,Education,16,0,8.05,Yes
+Row house,female,40 - <45K,Black,7bccb7,0,IPM,11,0,9.98,Yes
+NA,female,40 - <45K,Black,7bccb7,1,IPM,11,1,NA,Yes
+NA,female,40 - <45K,Black,7bccb7,2,IPM,11,0,NA,Yes
+NA,female,40 - <45K,Black,7bccb7,3,IPM,11,4,NA,No
+NA,female,40 - <45K,Black,7bccb7,4,IPM,12,2,2.24,No
+Detached house,female,>50K,White,7bd76a,0,IPM,6,7,0.72,No
+NA,female,>50K,White,7bd76a,1,IPM,6,10,NA,Yes
+NA,female,>50K,White,7bd76a,2,IPM,7,4,NA,No
+NA,female,>50K,White,7bd76a,3,IPM,7,3,NA,No
+NA,female,>50K,White,7bd76a,4,IPM,7,14,0.67,No
+Row house,male,<5K,Black,7bd9b6,0,Education,16,0,14,Yes
+NA,male,<5K,Black,7bd9b6,1,Education,16,1,NA,Yes
+NA,male,<5K,Black,7bd9b6,2,Education,16,1,NA,Yes
+NA,male,<5K,Black,7bd9b6,3,Education,16,2,NA,Yes
+NA,male,<5K,Black,7bd9b6,4,Education,17,0,13.9,Yes
+Row house,female,5 - <10K,Black,7bf734,0,Education,13,2,8.41,No
+NA,female,5 - <10K,Black,7bf734,1,Education,13,2,NA,No
+NA,female,5 - <10K,Black,7bf734,2,Education,13,4,NA,Yes
+NA,female,5 - <10K,Black,7bf734,3,Education,14,3,NA,Yes
+NA,female,5 - <10K,Black,7bf734,4,Education,14,1,14.9,Yes
+Row house,male,15 - <20K,Black,7c7cd6,0,Education,6,3,33.8,Yes
+NA,male,15 - <20K,Black,7c7cd6,1,Education,6,2,NA,Yes
+NA,male,15 - <20K,Black,7c7cd6,2,Education,7,1,NA,Yes
+NA,male,15 - <20K,Black,7c7cd6,3,Education,7,5,NA,Yes
+NA,male,15 - <20K,Black,7c7cd6,4,Education,7,0,21,Yes
+Row house,female,<5K,Black,7d06b7,0,IPM,16,3,4.45,Yes
+NA,female,<5K,Black,7d06b7,1,IPM,16,0,NA,No
+NA,female,<5K,Black,7d06b7,2,IPM,16,2,NA,Yes
+NA,female,<5K,Black,7d06b7,3,IPM,17,0,NA,Yes
+NA,female,<5K,Black,7d06b7,4,IPM,17,2,5.62,Yes
+Row house end of group,female,25 - <30K,Black,7f3604,0,IPM,6,1,9.07,Yes
+NA,female,25 - <30K,Black,7f3604,1,IPM,6,5,NA,No
+NA,female,25 - <30K,Black,7f3604,2,IPM,7,4,NA,No
+NA,female,25 - <30K,Black,7f3604,3,IPM,7,0,NA,No
+NA,female,25 - <30K,Black,7f3604,4,IPM,7,5,25,Yes
+Row house,male,15 - <20K,Black,7ff434,0,IPM,6,1,14.6,Yes
+NA,male,15 - <20K,Black,7ff434,1,IPM,7,7,NA,Yes
+NA,male,15 - <20K,Black,7ff434,2,IPM,7,5,NA,Yes
+NA,male,15 - <20K,Black,7ff434,3,IPM,7,2,NA,Yes
+NA,male,15 - <20K,Black,7ff434,4,IPM,7,5,4.25,Yes
+Apartment,male,40 - <45K,Black,8079ae,0,IPM,9,1,35.7,Yes
+NA,male,40 - <45K,Black,8079ae,1,IPM,9,1,NA,Yes
+NA,male,40 - <45K,Black,8079ae,2,IPM,10,0,NA,Yes
+NA,male,40 - <45K,Black,8079ae,3,IPM,10,3,NA,Yes
+Apartment,male,5 - <10K,Black,80b331,0,Education,10,1,7.6,Yes
+NA,male,5 - <10K,Black,80b331,1,Education,10,7,NA,Yes
+NA,male,5 - <10K,Black,80b331,2,Education,11,0,NA,Yes
+NA,male,5 - <10K,Black,80b331,3,Education,11,0,NA,Yes
+NA,male,5 - <10K,Black,80b331,4,Education,11,2,3.98,Yes
+Row house,male,20 - <25K,Black,823f74,0,IPM,8,2,0.05,Yes
+NA,male,20 - <25K,Black,823f74,1,IPM,8,3,NA,Yes
+NA,male,20 - <25K,Black,823f74,2,IPM,8,3,NA,Yes
+NA,male,20 - <25K,Black,823f74,3,IPM,8,6,NA,Yes
+NA,male,20 - <25K,Black,823f74,4,IPM,9,2,0.05,Yes
+Row house end of group,male,20 - <25K,Black,83dcda,0,Education,12,4,22.5,Yes
+NA,male,20 - <25K,Black,83dcda,1,Education,12,6,NA,Yes
+NA,male,20 - <25K,Black,83dcda,2,Education,13,2,NA,No
+NA,male,20 - <25K,Black,83dcda,3,Education,13,4,NA,No
+NA,male,20 - <25K,Black,83dcda,4,Education,13,2,6.77,No
+Apartment,female,<5K,Black,840eb9,0,Education,5,3,97.5,No
+NA,female,<5K,Black,840eb9,1,Education,6,0,NA,No
+NA,female,<5K,Black,840eb9,3,Education,6,3,NA,Yes
+Row house,male,<5K,Black,845608,0,Education,13,4,4.06,Yes
+NA,male,<5K,Black,845608,1,Education,14,4,NA,No
+Duplex/semi-detached,male,35 - <40K,White,84e176,0,IPM,10,3,82,No
+NA,male,35 - <40K,White,84e176,1,IPM,11,3,NA,No
+Row house,male,<5K,Black,85a8df,0,Education,8,8,51.9,Yes
+NA,male,<5K,Black,85a8df,1,Education,8,5,NA,Yes
+NA,male,<5K,Black,85a8df,2,Education,8,8,NA,No
+NA,male,<5K,Black,85a8df,3,Education,8,2,NA,Yes
+NA,male,<5K,Black,85a8df,4,Education,9,4,35.2,No
+Apartment,male,refused,Black,8641af,0,Education,12,0,100,Yes
+NA,male,refused,Black,8641af,1,Education,13,1,NA,Yes
+NA,male,refused,Black,8641af,2,Education,13,0,NA,Yes
+NA,male,refused,Black,8641af,3,Education,13,1,NA,Yes
+NA,male,refused,Black,8641af,4,Education,13,0,100,Yes
+Row house,female,20 - <25K,Black,866022,0,Education,12,2,10,Yes
+NA,female,20 - <25K,Black,866022,1,Education,13,0,NA,Yes
+NA,female,20 - <25K,Black,866022,2,Education,13,7,NA,Yes
+NA,female,20 - <25K,Black,866022,3,Education,13,3,NA,Yes
+NA,female,20 - <25K,Black,866022,4,Education,14,3,NA,No
+Apartment,male,10 - <15K,Black,89c517,0,IPM,8,1,48.7,Yes
+NA,male,10 - <15K,Black,89c517,1,IPM,9,2,NA,Yes
+NA,male,10 - <15K,Black,89c517,2,IPM,9,0,NA,Yes
+NA,male,10 - <15K,Black,89c517,3,IPM,9,3,NA,Yes
+NA,male,10 - <15K,Black,89c517,4,IPM,10,0,100,Yes
+Row house end of group,female,<5K,Black,8a3e38,0,Education,18,7,2.74,No
+NA,female,<5K,Black,8a3e38,1,Education,18,3,NA,Yes
+NA,female,<5K,Black,8a3e38,3,Education,19,NA,NA,Yes
+Apartment,male,30 - <35K,Black,8a60f3,0,Education,7,0,34.5,Yes
+NA,male,30 - <35K,Black,8a60f3,1,Education,7,0,NA,Yes
+NA,male,30 - <35K,Black,8a60f3,2,Education,7,0,NA,Yes
+NA,male,30 - <35K,Black,8a60f3,3,Education,8,0,NA,No
+NA,male,30 - <35K,Black,8a60f3,4,Education,8,0,4.93,No
+Row house,female,5 - <10K,Black,8a7c5e,0,Education,13,0,0.29,Yes
+NA,female,5 - <10K,Black,8a7c5e,1,Education,13,0,NA,Yes
+NA,female,5 - <10K,Black,8a7c5e,2,Education,14,4,NA,No
+NA,female,5 - <10K,Black,8a7c5e,3,Education,14,3,NA,Yes
+NA,female,5 - <10K,Black,8a7c5e,4,Education,14,0,0.23,Yes
+Row house,female,5 - <10K,Black,8bc4ea,0,Education,10,7,5.72,No
+NA,female,5 - <10K,Black,8bc4ea,1,Education,11,2,NA,Yes
+NA,female,5 - <10K,Black,8bc4ea,2,Education,11,1,NA,Yes
+NA,female,5 - <10K,Black,8bc4ea,3,Education,11,1,NA,Yes
+NA,female,5 - <10K,Black,8bc4ea,4,Education,12,3,0.61,Yes
+Row house,male,25 - <30K,Black,8cb437,0,IPM,11,7,15.5,Yes
+NA,male,25 - <30K,Black,8cb437,1,IPM,12,7,NA,Yes
+NA,male,25 - <30K,Black,8cb437,2,IPM,12,0,NA,Yes
+NA,male,25 - <30K,Black,8cb437,3,IPM,12,3,NA,Yes
+NA,male,25 - <30K,Black,8cb437,4,IPM,12,8,13.2,No
+Row house,male,5 - <10K,Black,8d8438,0,Education,6,0,17.7,Yes
+NA,male,5 - <10K,Black,8d8438,1,Education,7,0,NA,Yes
+NA,male,5 - <10K,Black,8d8438,2,Education,7,0,NA,No
+NA,male,5 - <10K,Black,8d8438,3,Education,7,0,NA,No
+NA,male,5 - <10K,Black,8d8438,4,Education,7,0,9.77,No
+Row house,male,15 - <20K,Black,8d9f14,0,Education,7,2,26.5,No
+NA,male,15 - <20K,Black,8d9f14,1,Education,7,0,NA,No
+NA,male,15 - <20K,Black,8d9f14,2,Education,7,0,NA,No
+NA,male,15 - <20K,Black,8d9f14,3,Education,7,0,NA,Yes
+NA,male,15 - <20K,Black,8d9f14,4,Education,8,0,86.1,Yes
+Detached house,female,<5K,multi,8ed9d7,0,IPM,13,14,7.5,No
+NA,female,<5K,multi,8ed9d7,1,IPM,13,5,NA,No
+NA,female,<5K,multi,8ed9d7,2,IPM,14,6,NA,No
+NA,female,<5K,multi,8ed9d7,3,IPM,14,3,NA,No
+NA,female,<5K,multi,8ed9d7,4,IPM,14,7,1.34,No
+Row house,female,<5K,Black,8ede4a,0,IPM,17,14,25.9,Yes
+NA,female,<5K,Black,8ede4a,1,IPM,17,14,NA,Yes
+NA,female,<5K,Black,8ede4a,2,IPM,18,14,NA,No
+NA,female,<5K,Black,8ede4a,3,IPM,18,14,NA,No
+NA,female,<5K,Black,8ede4a,4,IPM,18,4,15.9,No
+Row house,male,25 - <30K,Black,8ee306,0,Education,10,2,68,Yes
+NA,male,25 - <30K,Black,8ee306,1,Education,11,10,NA,Yes
+NA,male,25 - <30K,Black,8ee306,2,Education,11,10,NA,Yes
+NA,male,25 - <30K,Black,8ee306,3,Education,11,12,NA,No
+NA,male,25 - <30K,Black,8ee306,4,Education,12,8,14.7,No
+other,female,10 - <15K,Black,90ca59,0,Education,15,5,100,No
+NA,female,10 - <15K,Black,90ca59,2,Education,16,5,NA,Yes
+NA,female,10 - <15K,Black,90ca59,3,Education,16,2,NA,No
+NA,female,10 - <15K,Black,90ca59,4,Education,16,5,100,Yes
+Row house,male,5 - <10K,Black,94cf6e,0,Education,7,14,6.72,Yes
+NA,male,5 - <10K,Black,94cf6e,1,Education,8,5,NA,No
+NA,male,5 - <10K,Black,94cf6e,2,Education,8,4,NA,Yes
+NA,male,5 - <10K,Black,94cf6e,3,Education,8,2,NA,No
+NA,male,5 - <10K,Black,94cf6e,4,Education,9,3,6.22,Yes
+Duplex/semi-detached,female,5 - <10K,White,94f54f,0,IPM,8,2,100,Yes
+NA,female,5 - <10K,White,94f54f,1,IPM,8,14,NA,No
+NA,female,5 - <10K,White,94f54f,2,IPM,8,0,NA,Yes
+NA,female,5 - <10K,White,94f54f,3,IPM,9,2,NA,No
+NA,female,5 - <10K,White,94f54f,4,IPM,9,2,100,Yes
+Row house,male,<5K,Black,950a2f,0,Education,15,4,4.99,Yes
+NA,male,<5K,Black,950a2f,1,Education,15,1,NA,Yes
+NA,male,<5K,Black,950a2f,2,Education,16,0,NA,Yes
+NA,male,<5K,Black,950a2f,3,Education,16,3,NA,No
+NA,male,<5K,Black,950a2f,4,Education,16,10,3.24,No
+Apartment,male,40 - <45K,Black,9594b7,0,IPM,7,2,1.46,Yes
+NA,male,40 - <45K,Black,9594b7,1,IPM,7,0,NA,Yes
+NA,male,40 - <45K,Black,9594b7,2,IPM,7,4,NA,Yes
+NA,male,40 - <45K,Black,9594b7,3,IPM,8,0,NA,No
+NA,male,40 - <45K,Black,9594b7,4,IPM,8,1,2.29,Yes
+Row house end of group,female,<5K,Black,95d2d8,0,Education,6,2,84.4,No
+NA,female,<5K,Black,95d2d8,1,Education,7,3,NA,No
+NA,female,<5K,Black,95d2d8,2,Education,7,10,NA,No
+NA,female,<5K,Black,95d2d8,3,Education,7,3,NA,No
+NA,female,<5K,Black,95d2d8,4,Education,7,0,58.2,Yes
+Detached house,male,>50K,multi,960f13,0,IPM,17,0,2.14,Yes
+NA,male,>50K,multi,960f13,1,IPM,17,1,NA,No
+NA,male,>50K,multi,960f13,2,IPM,17,0,NA,No
+NA,male,>50K,multi,960f13,3,IPM,17,3,NA,No
+NA,male,>50K,multi,960f13,4,IPM,18,0,0.78,No
+Apartment,male,10 - <15K,unknown,966222,0,Education,7,0,100,Yes
+NA,male,10 - <15K,unknown,966222,1,Education,8,1,NA,Yes
+NA,male,10 - <15K,unknown,966222,2,Education,8,1,NA,Yes
+NA,male,10 - <15K,unknown,966222,3,Education,8,4,NA,Yes
+NA,male,10 - <15K,unknown,966222,4,Education,8,2,91.5,Yes
+Row house,female,15 - <20K,Black,96ac26,0,Education,14,0,26,Yes
+NA,female,15 - <20K,Black,96ac26,1,Education,14,0,NA,Yes
+NA,female,15 - <20K,Black,96ac26,2,Education,15,0,NA,Yes
+NA,female,15 - <20K,Black,96ac26,3,Education,15,0,NA,Yes
+NA,female,15 - <20K,Black,96ac26,4,Education,15,6,10.6,Yes
+Apartment,female,don't know,Black,973636,0,IPM,13,0,12,Yes
+NA,female,don't know,Black,973636,1,IPM,13,0,NA,Yes
+NA,female,don't know,Black,973636,2,IPM,13,2,NA,Yes
+NA,female,don't know,Black,973636,3,IPM,14,3,NA,Yes
+NA,female,don't know,Black,973636,4,IPM,14,2,4.41,Yes
+Row house,male,25 - <30K,Black,975f3c,0,Education,9,10,2.56,Yes
+NA,male,25 - <30K,Black,975f3c,1,Education,10,2,NA,Yes
+NA,male,25 - <30K,Black,975f3c,2,Education,10,14,NA,Yes
+NA,male,25 - <30K,Black,975f3c,3,Education,10,14,NA,Yes
+NA,male,25 - <30K,Black,975f3c,4,Education,10,6,2.95,Yes
+Row house,male,25 - <30K,Black,97bab3,0,Education,9,0,2.97,Yes
+NA,male,25 - <30K,Black,97bab3,1,Education,9,0,NA,Yes
+NA,male,25 - <30K,Black,97bab3,2,Education,9,0,NA,Yes
+NA,male,25 - <30K,Black,97bab3,3,Education,9,14,NA,Yes
+NA,male,25 - <30K,Black,97bab3,4,Education,10,0,3.7,Yes
+Apartment,male,5 - <10K,Black,97d7c9,0,IPM,5,2,4.97,Yes
+NA,male,5 - <10K,Black,97d7c9,1,IPM,6,1,NA,Yes
+NA,male,5 - <10K,Black,97d7c9,2,IPM,6,1,NA,Yes
+NA,male,5 - <10K,Black,97d7c9,3,IPM,6,2,NA,Yes
+NA,male,5 - <10K,Black,97d7c9,4,IPM,6,1,3.34,Yes
+Apartment,female,5 - <10K,Black,981c8f,0,Education,9,1,100,No
+NA,female,5 - <10K,Black,981c8f,1,Education,9,2,NA,No
+NA,female,5 - <10K,Black,981c8f,2,Education,NA,NA,NA,No
+NA,female,5 - <10K,Black,981c8f,3,Education,9,2,NA,No
+NA,female,5 - <10K,Black,981c8f,4,Education,10,3,100,No
+Apartment,female,5 - <10K,Black,99ac11,0,Education,6,7,16.8,Yes
+NA,female,5 - <10K,Black,99ac11,1,Education,6,14,NA,Yes
+NA,female,5 - <10K,Black,99ac11,2,Education,7,0,NA,Yes
+NA,female,5 - <10K,Black,99ac11,3,Education,7,0,NA,No
+NA,female,5 - <10K,Black,99ac11,4,Education,7,3,12.8,Yes
+Apartment,male,5 - <10K,Black,9a4bfc,0,IPM,6,4,13.5,Yes
+NA,male,5 - <10K,Black,9a4bfc,1,IPM,6,2,NA,Yes
+NA,male,5 - <10K,Black,9a4bfc,2,IPM,7,7,NA,Yes
+NA,male,5 - <10K,Black,9a4bfc,3,IPM,7,1,NA,No
+NA,male,5 - <10K,Black,9a4bfc,4,IPM,7,4,1.38,No
+Row house,male,25 - <30K,Black,9b5dc2,0,IPM,7,2,15.3,Yes
+NA,male,25 - <30K,Black,9b5dc2,1,IPM,8,2,NA,Yes
+NA,male,25 - <30K,Black,9b5dc2,2,IPM,8,2,NA,Yes
+NA,male,25 - <30K,Black,9b5dc2,3,IPM,8,2,NA,Yes
+NA,male,25 - <30K,Black,9b5dc2,4,IPM,8,3,30.2,No
+Apartment,female,refused,multi,9b9c47,0,IPM,10,0,0.83,Yes
+NA,female,refused,multi,9b9c47,1,IPM,10,7,NA,Yes
+NA,female,refused,multi,9b9c47,2,IPM,11,0,NA,Yes
+NA,female,refused,multi,9b9c47,3,IPM,11,0,NA,Yes
+NA,female,refused,multi,9b9c47,4,IPM,11,0,1.34,Yes
+Row house,male,don't know,Black,9bca41,0,Education,9,1,6.65,No
+NA,male,don't know,Black,9bca41,1,Education,9,3,NA,Yes
+NA,male,don't know,Black,9bca41,2,Education,9,1,NA,No
+NA,male,don't know,Black,9bca41,3,Education,9,0,NA,No
+NA,male,don't know,Black,9bca41,4,Education,10,0,2.75,No
+Row house,female,5 - <10K,Black,9c7f28,0,Education,7,5,6.53,No
+NA,female,5 - <10K,Black,9c7f28,1,Education,8,2,NA,No
+NA,female,5 - <10K,Black,9c7f28,2,Education,8,3,NA,Yes
+NA,female,5 - <10K,Black,9c7f28,3,Education,8,0,NA,No
+NA,female,5 - <10K,Black,9c7f28,4,Education,9,2,8.24,No
+Row house,male,40 - <45K,multi,9d849f,0,IPM,10,2,8.37,Yes
+NA,male,40 - <45K,multi,9d849f,1,IPM,11,5,NA,Yes
+NA,male,40 - <45K,multi,9d849f,2,IPM,11,0,NA,No
+NA,male,40 - <45K,multi,9d849f,3,IPM,11,2,NA,Yes
+NA,male,40 - <45K,multi,9d849f,4,IPM,11,0,1.85,Yes
+Apartment,female,5 - <10K,Black,9e15d7,0,Education,14,14,0.05,Yes
+NA,female,5 - <10K,Black,9e15d7,1,Education,14,0,NA,Yes
+NA,female,5 - <10K,Black,9e15d7,2,Education,14,3,NA,Yes
+NA,female,5 - <10K,Black,9e15d7,3,Education,15,0,NA,Yes
+NA,female,5 - <10K,Black,9e15d7,4,Education,15,2,0.05,Yes
+Row house end of group,male,25 - <30K,Black,9fce3e,0,IPM,16,5,17.4,Yes
+NA,male,25 - <30K,Black,9fce3e,1,IPM,16,0,NA,Yes
+NA,male,25 - <30K,Black,9fce3e,2,IPM,16,7,NA,Yes
+NA,male,25 - <30K,Black,9fce3e,3,IPM,17,2,NA,Yes
+NA,male,25 - <30K,Black,9fce3e,4,IPM,17,5,11.9,No
+Row house,female,15 - <20K,Black,a165d2,0,Education,17,2,5.53,Yes
+NA,female,15 - <20K,Black,a165d2,1,Education,17,2,NA,Yes
+NA,female,15 - <20K,Black,a165d2,2,Education,17,2,NA,Yes
+NA,female,15 - <20K,Black,a165d2,3,Education,18,8,NA,Yes
+NA,female,15 - <20K,Black,a165d2,4,Education,18,14,4.33,Yes
+Apartment,male,<5K,multi,a17273,0,Education,6,4,7.18,Yes
+NA,male,<5K,multi,a17273,1,Education,6,1,NA,Yes
+NA,male,<5K,multi,a17273,2,Education,7,4,NA,Yes
+NA,male,<5K,multi,a17273,3,Education,7,2,NA,Yes
+NA,male,<5K,multi,a17273,4,Education,7,0,17.8,No
+Detached house,male,>50K,Black,a1ef44,0,IPM,7,0,100,Yes
+NA,male,>50K,Black,a1ef44,1,IPM,7,0,NA,Yes
+NA,male,>50K,Black,a1ef44,2,IPM,7,3,NA,Yes
+NA,male,>50K,Black,a1ef44,3,IPM,8,1,NA,No
+NA,male,>50K,Black,a1ef44,4,IPM,NA,NA,NA,No
+Row house,male,25 - <30K,Black,a46e10,0,IPM,11,2,22.9,Yes
+NA,male,25 - <30K,Black,a46e10,1,IPM,11,3,NA,Yes
+NA,male,25 - <30K,Black,a46e10,2,IPM,12,2,NA,Yes
+NA,male,25 - <30K,Black,a46e10,3,IPM,12,3,NA,No
+NA,male,25 - <30K,Black,a46e10,4,IPM,12,3,25.1,Yes
+Row house,male,30 - <35K,Black,a4d7a3,0,IPM,9,4,8.9,Yes
+NA,male,30 - <35K,Black,a4d7a3,1,IPM,10,3,NA,Yes
+NA,male,30 - <35K,Black,a4d7a3,2,IPM,10,7,NA,Yes
+NA,male,30 - <35K,Black,a4d7a3,3,IPM,10,6,NA,Yes
+NA,male,30 - <35K,Black,a4d7a3,4,IPM,10,10,0.05,Yes
+Apartment,male,10 - <15K,Black,a4e722,0,Education,11,0,0.64,No
+NA,male,10 - <15K,Black,a4e722,1,Education,12,0,NA,No
+NA,male,10 - <15K,Black,a4e722,2,Education,12,0,NA,Yes
+NA,male,10 - <15K,Black,a4e722,3,Education,12,7,NA,Yes
+NA,male,10 - <15K,Black,a4e722,4,Education,12,1,0.33,Yes
+Apartment,male,5 - <10K,Black,a59cd1,0,IPM,12,0,20.9,No
+NA,male,5 - <10K,Black,a59cd1,1,IPM,12,0,NA,No
+NA,male,5 - <10K,Black,a59cd1,2,IPM,13,0,NA,Yes
+NA,male,5 - <10K,Black,a59cd1,3,IPM,13,0,NA,No
+NA,male,5 - <10K,Black,a59cd1,4,IPM,13,0,4.39,No
+Row house,male,20 - <25K,multi,a5c6fb,0,IPM,8,10,37.8,Yes
+NA,male,20 - <25K,multi,a5c6fb,1,IPM,8,3,NA,Yes
+NA,male,20 - <25K,multi,a5c6fb,2,IPM,8,12,NA,No
+NA,male,20 - <25K,multi,a5c6fb,3,IPM,9,1,NA,No
+NA,male,20 - <25K,multi,a5c6fb,4,IPM,9,1,14.7,No
+Detached house,male,<5K,Black,a5f317,0,IPM,10,1,14.7,Yes
+Apartment,male,25 - <30K,Black,a68658,0,IPM,12,14,42.9,Yes
+NA,male,25 - <30K,Black,a68658,1,IPM,12,0,NA,No
+NA,male,25 - <30K,Black,a68658,2,IPM,12,3,NA,No
+NA,male,25 - <30K,Black,a68658,3,IPM,13,5,NA,Yes
+NA,male,25 - <30K,Black,a68658,4,IPM,13,4,15.2,No
+Detached house,female,>50K,White,a6efd8,0,Education,7,4,29.6,Yes
+NA,female,>50K,White,a6efd8,1,Education,8,3,NA,Yes
+NA,female,>50K,White,a6efd8,2,Education,8,8,NA,Yes
+NA,female,>50K,White,a6efd8,3,Education,8,4,NA,Yes
+NA,female,>50K,White,a6efd8,4,Education,9,10,12.8,Yes
+Row house end of group,male,25 - <30K,Black,a8a1e3,0,IPM,13,0,100,Yes
+NA,male,25 - <30K,Black,a8a1e3,1,IPM,13,4,NA,Yes
+NA,male,25 - <30K,Black,a8a1e3,2,IPM,13,0,NA,Yes
+NA,male,25 - <30K,Black,a8a1e3,3,IPM,13,2,NA,No
+NA,male,25 - <30K,Black,a8a1e3,4,IPM,14,0,100,No
+Row house,male,5 - <10K,Black,aa03b1,0,IPM,10,0,55.3,Yes
+NA,male,5 - <10K,Black,aa03b1,1,IPM,11,0,NA,Yes
+NA,male,5 - <10K,Black,aa03b1,2,IPM,11,0,NA,Yes
+NA,male,5 - <10K,Black,aa03b1,3,IPM,11,7,NA,Yes
+NA,male,5 - <10K,Black,aa03b1,4,IPM,11,3,24.8,Yes
+Apartment,female,<5K,Black,ab4d2c,0,Education,8,2,19.6,Yes
+NA,female,<5K,Black,ab4d2c,1,Education,9,0,NA,Yes
+NA,female,<5K,Black,ab4d2c,2,Education,9,1,NA,Yes
+NA,female,<5K,Black,ab4d2c,3,Education,9,2,NA,Yes
+NA,female,<5K,Black,ab4d2c,4,Education,9,2,47.1,Yes
+Row house,male,refused,Black,ab642b,0,IPM,10,0,0.17,Yes
+NA,male,refused,Black,ab642b,1,IPM,10,1,NA,No
+NA,male,refused,Black,ab642b,2,IPM,11,0,NA,Yes
+NA,male,refused,Black,ab642b,3,IPM,11,0,NA,No
+NA,male,refused,Black,ab642b,4,IPM,NA,NA,NA,Yes
+Detached house,male,don't know,White,ab755a,0,Education,7,8,95.6,Yes
+NA,male,don't know,White,ab755a,1,Education,7,8,NA,Yes
+NA,male,don't know,White,ab755a,2,Education,8,7,NA,No
+NA,male,don't know,White,ab755a,3,Education,8,10,NA,Yes
+NA,male,don't know,White,ab755a,4,Education,8,10,65.4,Yes
+Apartment,male,20 - <25K,multi,aba6ea,0,IPM,8,1,23.1,Yes
+NA,male,20 - <25K,multi,aba6ea,1,IPM,9,1,NA,Yes
+NA,male,20 - <25K,multi,aba6ea,2,IPM,9,2,NA,No
+NA,male,20 - <25K,multi,aba6ea,3,IPM,9,1,NA,Yes
+NA,male,20 - <25K,multi,aba6ea,4,IPM,10,0,10.2,Yes
+Row house,female,<5K,Black,abd9af,0,IPM,7,0,33.6,No
+NA,female,<5K,Black,abd9af,1,IPM,7,2,NA,Yes
+NA,female,<5K,Black,abd9af,2,IPM,7,0,NA,Yes
+NA,female,<5K,Black,abd9af,3,IPM,7,0,NA,No
+NA,female,<5K,Black,abd9af,4,IPM,8,5,53,Yes
+Apartment,female,20 - <25K,Black,ac142b,0,Education,16,3,55.3,Yes
+NA,female,20 - <25K,Black,ac142b,1,Education,16,1,NA,Yes
+NA,female,20 - <25K,Black,ac142b,2,Education,17,10,NA,Yes
+NA,female,20 - <25K,Black,ac142b,3,Education,17,0,NA,Yes
+NA,female,20 - <25K,Black,ac142b,4,Education,17,9,54,Yes
+Detached house,female,>50K,Black,ad0e46,0,IPM,12,0,40.4,No
+NA,female,>50K,Black,ad0e46,1,IPM,12,0,NA,No
+NA,female,>50K,Black,ad0e46,2,IPM,13,0,NA,No
+NA,female,>50K,Black,ad0e46,3,IPM,13,0,NA,No
+NA,female,>50K,Black,ad0e46,4,IPM,13,1,49.7,No
+Row house end of group,male,don't know,Black,ad5e82,0,Education,10,1,12.2,Yes
+NA,male,don't know,Black,ad5e82,1,Education,10,1,NA,Yes
+NA,male,don't know,Black,ad5e82,2,Education,10,2,NA,Yes
+NA,male,don't know,Black,ad5e82,3,Education,11,3,NA,Yes
+NA,male,don't know,Black,ad5e82,4,Education,11,1,13,Yes
+Apartment,female,15 - <20K,Black,af0c45,0,Education,9,0,44.8,Yes
+NA,female,15 - <20K,Black,af0c45,1,Education,9,4,NA,Yes
+NA,female,15 - <20K,Black,af0c45,2,Education,10,2,NA,Yes
+NA,female,15 - <20K,Black,af0c45,3,Education,10,3,NA,Yes
+NA,female,15 - <20K,Black,af0c45,4,Education,10,0,21.5,Yes
+Row house,male,10 - <15K,multi,af1b72,0,Education,16,0,0.05,Yes
+NA,male,10 - <15K,multi,af1b72,1,Education,16,1,NA,Yes
+NA,male,10 - <15K,multi,af1b72,2,Education,17,0,NA,Yes
+NA,male,10 - <15K,multi,af1b72,3,Education,17,0,NA,Yes
+NA,male,10 - <15K,multi,af1b72,4,Education,17,2,0.05,Yes
+Row house,male,>50K,White,b08598,0,Education,9,10,5.65,Yes
+NA,male,>50K,White,b08598,1,Education,9,8,NA,Yes
+NA,male,>50K,White,b08598,2,Education,9,7,NA,Yes
+NA,male,>50K,White,b08598,3,Education,9,7,NA,Yes
+NA,male,>50K,White,b08598,4,Education,10,0,10.9,Yes
+Row house,female,5 - <10K,multi,b0a8ad,0,Education,8,2,64.4,Yes
+NA,female,5 - <10K,multi,b0a8ad,1,Education,8,0,NA,Yes
+NA,female,5 - <10K,multi,b0a8ad,2,Education,8,1,NA,Yes
+NA,female,5 - <10K,multi,b0a8ad,3,Education,8,2,NA,Yes
+NA,female,5 - <10K,multi,b0a8ad,4,Education,9,7,54,Yes
+Row house,female,refused,multi,b1a0ae,0,IPM,10,0,13,Yes
+NA,female,refused,multi,b1a0ae,1,IPM,10,3,NA,Yes
+NA,female,refused,multi,b1a0ae,2,IPM,11,0,NA,Yes
+NA,female,refused,multi,b1a0ae,3,IPM,11,0,NA,Yes
+NA,female,refused,multi,b1a0ae,4,IPM,11,0,14.7,Yes
+Row house,male,40 - <45K,Black,b23736,0,Education,14,1,19,Yes
+NA,male,40 - <45K,Black,b23736,1,Education,15,0,NA,Yes
+NA,male,40 - <45K,Black,b23736,2,Education,15,0,NA,Yes
+NA,male,40 - <45K,Black,b23736,3,Education,15,0,NA,Yes
+NA,male,40 - <45K,Black,b23736,4,Education,16,5,4.06,Yes
+Apartment,male,>50K,White,b240e4,0,Education,10,0,0.85,Yes
+NA,male,>50K,White,b240e4,1,Education,11,1,NA,Yes
+NA,male,>50K,White,b240e4,2,Education,11,1,NA,No
+NA,male,>50K,White,b240e4,3,Education,11,4,NA,No
+NA,male,>50K,White,b240e4,4,Education,11,2,0.45,No
+Row house,male,10 - <15K,Black,b325bc,0,Education,10,5,0.68,No
+NA,male,10 - <15K,Black,b325bc,1,Education,10,7,NA,No
+NA,male,10 - <15K,Black,b325bc,2,Education,10,0,NA,No
+NA,male,10 - <15K,Black,b325bc,3,Education,10,4,NA,No
+NA,male,10 - <15K,Black,b325bc,4,Education,11,3,0.48,No
+Row house,female,don't know,Black,b32f6d,0,Education,13,7,6.51,Yes
+NA,female,don't know,Black,b32f6d,1,Education,14,1,NA,Yes
+NA,female,don't know,Black,b32f6d,2,Education,14,0,NA,Yes
+NA,female,don't know,Black,b32f6d,3,Education,14,2,NA,Yes
+NA,female,don't know,Black,b32f6d,4,Education,14,1,12.9,Yes
+Row house end of group,female,5 - <10K,Black,b351c2,0,Education,11,4,0.68,Yes
+NA,female,5 - <10K,Black,b351c2,1,Education,11,5,NA,Yes
+NA,female,5 - <10K,Black,b351c2,2,Education,12,0,NA,Yes
+NA,female,5 - <10K,Black,b351c2,3,Education,12,2,NA,Yes
+NA,female,5 - <10K,Black,b351c2,4,Education,12,0,0.1,No
+Row house,male,5 - <10K,Black,b3adeb,0,IPM,11,2,16.6,Yes
+NA,male,5 - <10K,Black,b3adeb,1,IPM,11,3,NA,No
+NA,male,5 - <10K,Black,b3adeb,2,IPM,12,1,NA,Yes
+NA,male,5 - <10K,Black,b3adeb,3,IPM,12,1,NA,Yes
+NA,male,5 - <10K,Black,b3adeb,4,IPM,12,0,10.1,Yes
+Detached house,male,don't know,multi,b3de8b,0,Education,14,0,6.53,Yes
+NA,male,don't know,multi,b3de8b,1,Education,14,1,NA,No
+NA,male,don't know,multi,b3de8b,2,Education,NA,NA,NA,Yes
+NA,male,don't know,multi,b3de8b,3,Education,15,0,NA,Yes
+NA,male,don't know,multi,b3de8b,4,Education,15,1,3.77,Yes
+Row house,male,40 - <45K,Black,b50c58,0,IPM,7,0,14.7,Yes
+NA,male,40 - <45K,Black,b50c58,1,IPM,7,0,NA,Yes
+NA,male,40 - <45K,Black,b50c58,3,IPM,7,0,NA,Yes
+NA,male,40 - <45K,Black,b50c58,4,IPM,8,0,9.56,Yes
+Apartment,male,40 - <45K,Black,b707a9,0,Education,8,14,1.53,Yes
+NA,male,40 - <45K,Black,b707a9,1,Education,9,2,NA,Yes
+NA,male,40 - <45K,Black,b707a9,2,Education,9,4,NA,Yes
+NA,male,40 - <45K,Black,b707a9,3,Education,9,0,NA,Yes
+NA,male,40 - <45K,Black,b707a9,4,Education,9,3,1.73,Yes
+Apartment,male,5 - <10K,Black,b7f489,0,Education,8,1,85.1,Yes
+NA,male,5 - <10K,Black,b7f489,1,Education,9,1,NA,Yes
+NA,male,5 - <10K,Black,b7f489,2,Education,9,0,NA,Yes
+NA,male,5 - <10K,Black,b7f489,3,Education,9,0,NA,Yes
+NA,male,5 - <10K,Black,b7f489,4,Education,10,0,82.3,Yes
+Row house,female,15 - <20K,multi,b8019d,0,Education,14,4,0.36,Yes
+NA,female,15 - <20K,multi,b8019d,1,Education,15,3,NA,Yes
+NA,female,15 - <20K,multi,b8019d,2,Education,15,7,NA,Yes
+NA,female,15 - <20K,multi,b8019d,3,Education,15,1,NA,Yes
+NA,female,15 - <20K,multi,b8019d,4,Education,16,0,0.99,Yes
+Row house,male,40 - <45K,Black,ba54c0,0,Education,17,7,9.87,Yes
+NA,male,40 - <45K,Black,ba54c0,1,Education,17,14,NA,Yes
+NA,male,40 - <45K,Black,ba54c0,2,Education,18,5,NA,Yes
+NA,male,40 - <45K,Black,ba54c0,3,Education,18,3,NA,Yes
+NA,male,40 - <45K,Black,ba54c0,4,Education,18,5,0.67,Yes
+Apartment,male,10 - <15K,Black,ba5582,0,IPM,7,1,10.3,Yes
+NA,male,10 - <15K,Black,ba5582,1,IPM,8,1,NA,No
+NA,male,10 - <15K,Black,ba5582,2,IPM,8,0,NA,Yes
+NA,male,10 - <15K,Black,ba5582,3,IPM,8,14,NA,No
+NA,male,10 - <15K,Black,ba5582,4,IPM,8,7,17,Yes
+Row house,male,>50K,Black,ba7dc1,0,IPM,8,0,0.41,Yes
+NA,male,>50K,Black,ba7dc1,1,IPM,8,0,NA,Yes
+NA,male,>50K,Black,ba7dc1,2,IPM,9,0,NA,No
+NA,male,>50K,Black,ba7dc1,3,IPM,9,0,NA,Yes
+NA,male,>50K,Black,ba7dc1,4,IPM,9,0,0.48,No
+Apartment,male,30 - <35K,Black,bc57a4,0,IPM,13,0,3.72,Yes
+NA,male,30 - <35K,Black,bc57a4,1,IPM,13,0,NA,Yes
+NA,male,30 - <35K,Black,bc57a4,2,IPM,14,1,NA,Yes
+NA,male,30 - <35K,Black,bc57a4,3,IPM,14,0,NA,No
+NA,male,30 - <35K,Black,bc57a4,4,IPM,14,0,10,Yes
+Apartment,female,>50K,Black,bcb737,0,Education,11,2,77.5,Yes
+NA,female,>50K,Black,bcb737,1,Education,11,0,NA,Yes
+NA,female,>50K,Black,bcb737,2,Education,11,0,NA,Yes
+NA,female,>50K,Black,bcb737,3,Education,11,1,NA,Yes
+NA,female,>50K,Black,bcb737,4,Education,12,0,41.8,Yes
+Apartment,male,35 - <40K,Black,bd236d,0,Education,14,0,24.9,No
+NA,male,35 - <40K,Black,bd236d,1,Education,14,5,NA,Yes
+NA,male,35 - <40K,Black,bd236d,2,Education,14,1,NA,Yes
+NA,male,35 - <40K,Black,bd236d,3,Education,14,14,NA,No
+NA,male,35 - <40K,Black,bd236d,4,Education,15,1,16.3,No
+Duplex/semi-detached,male,>50K,Black,bd7623,0,IPM,9,3,169.5,Yes
+NA,male,>50K,Black,bd7623,1,IPM,9,1,NA,Yes
+NA,male,>50K,Black,bd7623,2,IPM,10,1,NA,No
+NA,male,>50K,Black,bd7623,3,IPM,10,0,NA,No
+NA,male,>50K,Black,bd7623,4,IPM,NA,NA,NA,No
+Duplex/semi-detached,male,5 - <10K,Black,bec90c,0,Education,7,0,51.7,Yes
+NA,male,5 - <10K,Black,bec90c,1,Education,7,3,NA,Yes
+NA,male,5 - <10K,Black,bec90c,2,Education,7,0,NA,Yes
+NA,male,5 - <10K,Black,bec90c,3,Education,8,6,NA,Yes
+NA,male,5 - <10K,Black,bec90c,4,Education,8,0,29.5,Yes
+Duplex/semi-detached,female,>50K,Black,beeb78,0,Education,13,7,1.91,Yes
+NA,female,>50K,Black,beeb78,1,Education,14,2,NA,Yes
+NA,female,>50K,Black,beeb78,2,Education,14,0,NA,Yes
+NA,female,>50K,Black,beeb78,3,Education,14,14,NA,Yes
+NA,female,>50K,Black,beeb78,4,Education,14,1,1.26,Yes
+Row house end of group,male,<5K,Black,bfd4b7,0,Education,10,1,10.8,Yes
+NA,male,<5K,Black,bfd4b7,1,Education,10,2,NA,Yes
+NA,male,<5K,Black,bfd4b7,2,Education,10,3,NA,Yes
+NA,male,<5K,Black,bfd4b7,3,Education,11,2,NA,Yes
+NA,male,<5K,Black,bfd4b7,4,Education,11,3,23.6,Yes
+Detached house,male,35 - <40K,multi,bfda04,0,Education,9,10,31.6,No
+NA,male,35 - <40K,multi,bfda04,1,Education,9,3,NA,Yes
+NA,male,35 - <40K,multi,bfda04,2,Education,10,12,NA,Yes
+NA,male,35 - <40K,multi,bfda04,3,Education,10,0,NA,No
+NA,male,35 - <40K,multi,bfda04,4,Education,10,14,10.5,Yes
+Apartment,female,refused,refuse,c14174,0,Education,12,1,42.2,Yes
+NA,female,refused,refuse,c14174,1,Education,12,2,NA,Yes
+NA,female,refused,refuse,c14174,2,Education,NA,NA,NA,Yes
+NA,female,refused,refuse,c14174,3,Education,12,0,NA,Yes
+NA,female,refused,refuse,c14174,4,Education,13,3,29.8,Yes
+Apartment,female,5 - <10K,Black,c16950,0,IPM,8,4,0.05,Yes
+NA,female,5 - <10K,Black,c16950,1,IPM,8,1,NA,Yes
+NA,female,5 - <10K,Black,c16950,2,IPM,8,0,NA,Yes
+NA,female,5 - <10K,Black,c16950,3,IPM,8,3,NA,No
+NA,female,5 - <10K,Black,c16950,4,IPM,9,0,0.05,No
+Row house end of group,female,25 - <30K,Black,c1b007,0,IPM,7,2,5.78,Yes
+NA,female,25 - <30K,Black,c1b007,1,IPM,7,1,NA,Yes
+NA,female,25 - <30K,Black,c1b007,2,IPM,7,1,NA,No
+NA,female,25 - <30K,Black,c1b007,3,IPM,7,2,NA,Yes
+NA,female,25 - <30K,Black,c1b007,4,IPM,8,0,1.35,No
+Apartment,male,<5K,Black,c29af0,0,IPM,8,10,0.05,Yes
+NA,male,<5K,Black,c29af0,1,IPM,9,0,NA,Yes
+NA,male,<5K,Black,c29af0,2,IPM,9,2,NA,No
+NA,male,<5K,Black,c29af0,3,IPM,9,0,NA,No
+NA,male,<5K,Black,c29af0,4,IPM,9,0,0.05,No
+Apartment,female,<5K,Black,c2f9a9,0,IPM,8,1,38.7,Yes
+NA,female,<5K,Black,c2f9a9,1,IPM,8,0,NA,Yes
+NA,female,<5K,Black,c2f9a9,2,IPM,9,0,NA,No
+NA,female,<5K,Black,c2f9a9,3,IPM,9,0,NA,No
+NA,female,<5K,Black,c2f9a9,4,IPM,9,0,33.5,Yes
+Row house end of group,male,35 - <40K,Black,c323ce,0,Education,6,10,18.2,Yes
+NA,male,35 - <40K,Black,c323ce,1,Education,6,5,NA,Yes
+NA,male,35 - <40K,Black,c323ce,2,Education,7,2,NA,Yes
+NA,male,35 - <40K,Black,c323ce,3,Education,7,0,NA,Yes
+NA,male,35 - <40K,Black,c323ce,4,Education,7,5,34.3,Yes
+Row house,male,5 - <10K,Black,c334bc,0,Education,8,3,11.9,Yes
+NA,male,5 - <10K,Black,c334bc,1,Education,8,1,NA,Yes
+NA,male,5 - <10K,Black,c334bc,2,Education,8,2,NA,Yes
+NA,male,5 - <10K,Black,c334bc,3,Education,8,7,NA,Yes
+NA,male,5 - <10K,Black,c334bc,4,Education,9,0,8.45,Yes
+Row house,female,20 - <25K,Black,c41e4c,0,IPM,9,0,0.57,No
+NA,female,20 - <25K,Black,c41e4c,1,IPM,10,3,NA,Yes
+NA,female,20 - <25K,Black,c41e4c,2,IPM,10,2,NA,No
+NA,female,20 - <25K,Black,c41e4c,3,IPM,10,0,NA,No
+NA,female,20 - <25K,Black,c41e4c,4,IPM,10,0,0.28,Yes
+Apartment,female,40 - <45K,Black,c474de,0,IPM,8,0,3.28,No
+NA,female,40 - <45K,Black,c474de,1,IPM,9,0,NA,No
+NA,female,40 - <45K,Black,c474de,2,IPM,9,0,NA,Yes
+NA,female,40 - <45K,Black,c474de,3,IPM,9,0,NA,Yes
+NA,female,40 - <45K,Black,c474de,4,IPM,10,0,2.76,Yes
+Row house,male,15 - <20K,White,c68779,0,Education,7,2,16.7,Yes
+NA,male,15 - <20K,White,c68779,1,Education,7,3,NA,Yes
+NA,male,15 - <20K,White,c68779,2,Education,7,3,NA,Yes
+NA,male,15 - <20K,White,c68779,3,Education,8,2,NA,Yes
+NA,male,15 - <20K,White,c68779,4,Education,8,4,34.4,Yes
+Duplex/semi-detached,male,15 - <20K,White,c7aa7a,0,IPM,14,3,0.85,Yes
+NA,male,15 - <20K,White,c7aa7a,1,IPM,15,1,NA,Yes
+NA,male,15 - <20K,White,c7aa7a,2,IPM,15,14,NA,Yes
+NA,male,15 - <20K,White,c7aa7a,3,IPM,15,14,NA,Yes
+NA,male,15 - <20K,White,c7aa7a,4,IPM,16,14,0.38,Yes
+Apartment,female,25 - <30K,Black,c85a6f,0,IPM,7,0,100,Yes
+NA,female,25 - <30K,Black,c85a6f,1,IPM,8,0,NA,No
+NA,female,25 - <30K,Black,c85a6f,2,IPM,8,0,NA,No
+NA,female,25 - <30K,Black,c85a6f,3,IPM,8,0,NA,No
+NA,female,25 - <30K,Black,c85a6f,4,IPM,NA,NA,NA,Yes
+Row house,female,15 - <20K,Black,ca6411,0,Education,9,3,100,Yes
+NA,female,15 - <20K,Black,ca6411,1,Education,10,3,NA,Yes
+NA,female,15 - <20K,Black,ca6411,2,Education,10,1,NA,No
+NA,female,15 - <20K,Black,ca6411,3,Education,10,1,NA,No
+NA,female,15 - <20K,Black,ca6411,4,Education,11,2,100,Yes
+Duplex/semi-detached,male,40 - <45K,Black,ccc61e,0,IPM,10,8,61.5,Yes
+NA,male,40 - <45K,Black,ccc61e,1,IPM,11,14,NA,Yes
+Apartment,female,<5K,multi,cdfd26,0,Education,8,0,0.54,Yes
+NA,female,<5K,multi,cdfd26,1,Education,8,4,NA,Yes
+NA,female,<5K,multi,cdfd26,2,Education,8,2,NA,No
+NA,female,<5K,multi,cdfd26,3,Education,8,3,NA,No
+NA,female,<5K,multi,cdfd26,4,Education,9,5,0.05,No
+Row house,male,>50K,Black,ceb838,0,IPM,11,2,46.9,Yes
+NA,male,>50K,Black,ceb838,1,IPM,11,0,NA,Yes
+NA,male,>50K,Black,ceb838,2,IPM,11,3,NA,Yes
+NA,male,>50K,Black,ceb838,3,IPM,11,3,NA,No
+NA,male,>50K,Black,ceb838,4,IPM,12,1,24.6,No
+Row house,male,don't know,White,cfdcc9,0,IPM,10,1,100,Yes
+NA,male,don't know,White,cfdcc9,1,IPM,10,0,NA,Yes
+NA,male,don't know,White,cfdcc9,2,IPM,11,0,NA,No
+NA,male,don't know,White,cfdcc9,3,IPM,11,0,NA,No
+NA,male,don't know,White,cfdcc9,4,IPM,11,0,46.2,No
+Row house,male,30 - <35K,Black,d07a1a,0,IPM,16,14,0.05,Yes
+NA,male,30 - <35K,Black,d07a1a,1,IPM,16,2,NA,Yes
+NA,male,30 - <35K,Black,d07a1a,2,IPM,16,11,NA,Yes
+NA,male,30 - <35K,Black,d07a1a,3,IPM,16,14,NA,No
+NA,male,30 - <35K,Black,d07a1a,4,IPM,17,14,0.05,Yes
+Row house end of group,male,<5K,Black,d18dbf,0,IPM,7,2,0.05,Yes
+NA,male,<5K,Black,d18dbf,1,IPM,7,0,NA,Yes
+NA,male,<5K,Black,d18dbf,2,IPM,7,1,NA,No
+NA,male,<5K,Black,d18dbf,3,IPM,8,0,NA,Yes
+NA,male,<5K,Black,d18dbf,4,IPM,8,0,0.05,No
+Row house end of group,male,refused,Black,d1e59a,0,Education,8,0,66.5,Yes
+NA,male,refused,Black,d1e59a,1,Education,9,3,NA,Yes
+NA,male,refused,Black,d1e59a,2,Education,9,3,NA,Yes
+NA,male,refused,Black,d1e59a,3,Education,9,4,NA,Yes
+NA,male,refused,Black,d1e59a,4,Education,9,14,53.3,Yes
+Row house,female,5 - <10K,Black,d20ee9,0,IPM,7,8,67,Yes
+NA,female,5 - <10K,Black,d20ee9,1,IPM,7,0,NA,Yes
+NA,female,5 - <10K,Black,d20ee9,2,IPM,8,0,NA,No
+NA,female,5 - <10K,Black,d20ee9,3,IPM,8,0,NA,Yes
+NA,female,5 - <10K,Black,d20ee9,4,IPM,8,14,28.5,Yes
+Detached house,male,10 - <15K,Black,d2afed,0,Education,13,1,0.05,Yes
+NA,male,10 - <15K,Black,d2afed,1,Education,14,0,NA,Yes
+NA,male,10 - <15K,Black,d2afed,2,Education,14,0,NA,No
+NA,male,10 - <15K,Black,d2afed,3,Education,14,0,NA,No
+NA,male,10 - <15K,Black,d2afed,4,Education,15,0,0.05,No
+Row house end of group,male,40 - <45K,multi,d31915,0,IPM,15,2,13,Yes
+NA,male,40 - <45K,multi,d31915,1,IPM,15,3,NA,No
+NA,male,40 - <45K,multi,d31915,2,IPM,15,0,NA,Yes
+NA,male,40 - <45K,multi,d31915,3,IPM,15,3,NA,No
+NA,male,40 - <45K,multi,d31915,4,IPM,16,0,28.4,Yes
+Duplex/semi-detached,female,20 - <25K,White,d3d164,0,Education,15,0,16.1,No
+NA,female,20 - <25K,White,d3d164,1,Education,15,0,NA,No
+NA,female,20 - <25K,White,d3d164,2,Education,15,2,NA,No
+NA,female,20 - <25K,White,d3d164,3,Education,15,6,NA,Yes
+NA,female,20 - <25K,White,d3d164,4,Education,16,0,11.9,No
+Row house,female,10 - <15K,multi,d40185,0,IPM,8,2,18.7,Yes
+NA,female,10 - <15K,multi,d40185,1,IPM,8,2,NA,Yes
+NA,female,10 - <15K,multi,d40185,2,IPM,8,2,NA,Yes
+NA,female,10 - <15K,multi,d40185,3,IPM,8,2,NA,Yes
+NA,female,10 - <15K,multi,d40185,4,IPM,9,3,18.6,Yes
+Apartment,male,don't know,Black,d483a0,0,Education,10,0,0.24,Yes
+NA,male,don't know,Black,d483a0,1,Education,10,2,NA,Yes
+NA,male,don't know,Black,d483a0,2,Education,10,3,NA,Yes
+NA,male,don't know,Black,d483a0,3,Education,10,3,NA,Yes
+NA,male,don't know,Black,d483a0,4,Education,11,0,0.46,Yes
+Apartment,male,10 - <15K,White,d4ef6f,0,IPM,16,0,0.05,Yes
+Row house,male,10 - <15K,Black,d5ad6b,0,Education,7,6,25.5,Yes
+NA,male,10 - <15K,Black,d5ad6b,1,Education,7,3,NA,Yes
+NA,male,10 - <15K,Black,d5ad6b,2,Education,NA,NA,NA,Yes
+NA,male,10 - <15K,Black,d5ad6b,3,Education,8,2,NA,Yes
+NA,male,10 - <15K,Black,d5ad6b,4,Education,8,4,18,Yes
+Row house,female,refused,Black,d66c12,0,IPM,11,2,10.5,Yes
+NA,female,refused,Black,d66c12,1,IPM,12,5,NA,Yes
+NA,female,refused,Black,d66c12,2,IPM,12,1,NA,Yes
+NA,female,refused,Black,d66c12,3,IPM,12,1,NA,Yes
+NA,female,refused,Black,d66c12,4,IPM,12,3,7.02,Yes
+Row house,male,25 - <30K,Black,d6d342,0,IPM,7,10,13,Yes
+NA,male,25 - <30K,Black,d6d342,1,IPM,8,0,NA,No
+NA,male,25 - <30K,Black,d6d342,2,IPM,8,2,NA,No
+NA,male,25 - <30K,Black,d6d342,3,IPM,8,2,NA,No
+NA,male,25 - <30K,Black,d6d342,4,IPM,NA,NA,NA,No
+Row house,female,<5K,Black,d6ecde,0,Education,11,2,6.34,Yes
+NA,female,<5K,Black,d6ecde,1,Education,11,14,NA,Yes
+NA,female,<5K,Black,d6ecde,2,Education,11,0,NA,No
+NA,female,<5K,Black,d6ecde,3,Education,12,14,NA,Yes
+NA,female,<5K,Black,d6ecde,4,Education,12,0,5.45,Yes
+Row house,male,>50K,multi,d748d3,0,IPM,8,4,14.3,No
+NA,male,>50K,multi,d748d3,1,IPM,8,2,NA,No
+NA,male,>50K,multi,d748d3,2,IPM,9,2,NA,Yes
+NA,male,>50K,multi,d748d3,3,IPM,9,4,NA,No
+NA,male,>50K,multi,d748d3,4,IPM,9,0,28.7,Yes
+Detached house,female,refused,White,d77eed,0,Education,6,3,53.5,Yes
+NA,female,refused,White,d77eed,1,Education,7,7,NA,No
+NA,female,refused,White,d77eed,2,Education,7,3,NA,No
+NA,female,refused,White,d77eed,3,Education,7,0,NA,No
+NA,female,refused,White,d77eed,4,Education,8,1,19.4,No
+Row house,male,20 - <25K,Black,d85d4f,0,Education,15,0,0.05,Yes
+NA,male,20 - <25K,Black,d85d4f,1,Education,15,3,NA,No
+NA,male,20 - <25K,Black,d85d4f,2,Education,16,2,NA,Yes
+NA,male,20 - <25K,Black,d85d4f,3,Education,16,2,NA,Yes
+NA,male,20 - <25K,Black,d85d4f,4,Education,16,3,0.05,Yes
+Row house,male,35 - <40K,Black,d9bfca,0,IPM,7,6,0.77,Yes
+NA,male,35 - <40K,Black,d9bfca,1,IPM,8,0,NA,Yes
+Row house end of group,male,5 - <10K,Black,db876a,0,Education,8,1,18.4,Yes
+NA,male,5 - <10K,Black,db876a,1,Education,8,2,NA,Yes
+NA,male,5 - <10K,Black,db876a,2,Education,8,6,NA,Yes
+NA,male,5 - <10K,Black,db876a,3,Education,8,6,NA,Yes
+NA,male,5 - <10K,Black,db876a,4,Education,9,2,33.4,Yes
+Apartment,male,40 - <45K,Black,dcbaaf,0,Education,7,1,100,Yes
+NA,male,40 - <45K,Black,dcbaaf,1,Education,7,7,NA,Yes
+NA,male,40 - <45K,Black,dcbaaf,2,Education,7,5,NA,No
+NA,male,40 - <45K,Black,dcbaaf,3,Education,7,0,NA,Yes
+NA,male,40 - <45K,Black,dcbaaf,4,Education,8,14,26.1,Yes
+Apartment,male,45 - <50K,Black,de8d8b,0,Education,7,0,5.98,Yes
+NA,male,45 - <50K,Black,de8d8b,1,Education,7,0,NA,Yes
+NA,male,45 - <50K,Black,de8d8b,2,Education,8,0,NA,Yes
+NA,male,45 - <50K,Black,de8d8b,3,Education,8,7,NA,Yes
+NA,male,45 - <50K,Black,de8d8b,4,Education,8,2,4.52,Yes
+Row house,male,10 - <15K,Black,decf27,0,Education,9,1,44.4,Yes
+NA,male,10 - <15K,Black,decf27,1,Education,9,0,NA,Yes
+NA,male,10 - <15K,Black,decf27,2,Education,9,0,NA,Yes
+NA,male,10 - <15K,Black,decf27,3,Education,10,4,NA,Yes
+NA,male,10 - <15K,Black,decf27,4,Education,10,1,34.1,Yes
+Apartment,male,<5K,Black,dfae27,0,Education,6,14,100,No
+NA,male,<5K,Black,dfae27,1,Education,6,14,NA,Yes
+NA,male,<5K,Black,dfae27,2,Education,7,14,NA,Yes
+NA,male,<5K,Black,dfae27,3,Education,7,14,NA,Yes
+NA,male,<5K,Black,dfae27,4,Education,7,14,15.5,Yes
+Row house,female,don't know,Black,dffce4,0,Education,6,1,6.96,Yes
+NA,female,don't know,Black,dffce4,1,Education,7,10,NA,Yes
+NA,female,don't know,Black,dffce4,2,Education,7,0,NA,Yes
+NA,female,don't know,Black,dffce4,4,Education,8,1,1.29,Yes
+Row house,male,5 - <10K,Black,e09ae5,0,IPM,7,5,77.8,Yes
+NA,male,5 - <10K,Black,e09ae5,1,IPM,7,5,NA,Yes
+NA,male,5 - <10K,Black,e09ae5,2,IPM,6,2,NA,Yes
+NA,male,5 - <10K,Black,e09ae5,3,IPM,7,3,NA,No
+NA,male,5 - <10K,Black,e09ae5,4,IPM,8,3,35.6,No
+Row house,male,30 - <35K,Black,e13dcc,0,IPM,14,2,NA,Yes
+NA,male,30 - <35K,Black,e13dcc,1,IPM,14,1,NA,Yes
+NA,male,30 - <35K,Black,e13dcc,2,IPM,14,0,NA,Yes
+NA,male,30 - <35K,Black,e13dcc,3,IPM,14,1,NA,No
+NA,male,30 - <35K,Black,e13dcc,4,IPM,12,1,22,Yes
+Row house,male,5 - <10K,Black,e2e902,0,Education,10,7,31.4,Yes
+NA,male,5 - <10K,Black,e2e902,1,Education,11,3,NA,Yes
+NA,male,5 - <10K,Black,e2e902,2,Education,11,7,NA,Yes
+NA,male,5 - <10K,Black,e2e902,3,Education,11,8,NA,Yes
+NA,male,5 - <10K,Black,e2e902,4,Education,11,2,17,Yes
+Row house,male,15 - <20K,multi,e3b865,0,IPM,9,14,8.36,Yes
+NA,male,15 - <20K,multi,e3b865,1,IPM,9,4,NA,Yes
+NA,male,15 - <20K,multi,e3b865,2,IPM,10,2,NA,No
+NA,male,15 - <20K,multi,e3b865,3,IPM,10,10,NA,Yes
+NA,male,15 - <20K,multi,e3b865,4,IPM,10,3,13,Yes
+Row house,female,25 - <30K,Black,e4bafe,0,Education,7,5,56.7,No
+NA,female,25 - <30K,Black,e4bafe,1,Education,7,1,NA,Yes
+NA,female,25 - <30K,Black,e4bafe,2,Education,7,7,NA,Yes
+NA,female,25 - <30K,Black,e4bafe,3,Education,8,10,NA,Yes
+NA,female,25 - <30K,Black,e4bafe,4,Education,8,0,100,Yes
+Apartment,female,5 - <10K,Black,e5b1cb,0,IPM,9,2,0.1,No
+NA,female,5 - <10K,Black,e5b1cb,1,IPM,9,2,NA,Yes
+NA,female,5 - <10K,Black,e5b1cb,2,IPM,9,0,NA,No
+NA,female,5 - <10K,Black,e5b1cb,3,IPM,9,2,NA,No
+NA,female,5 - <10K,Black,e5b1cb,4,IPM,10,3,0.68,Yes
+Detached house,female,10 - <15K,Black,e600af,0,IPM,9,0,7.25,No
+NA,female,10 - <15K,Black,e600af,1,IPM,9,0,NA,No
+NA,female,10 - <15K,Black,e600af,2,IPM,9,0,NA,No
+NA,female,10 - <15K,Black,e600af,3,IPM,9,0,NA,Yes
+NA,female,10 - <15K,Black,e600af,4,IPM,10,0,1.82,Yes
+Apartment,female,5 - <10K,Black,e67536,0,IPM,8,2,0.62,Yes
+NA,female,5 - <10K,Black,e67536,1,IPM,8,4,NA,Yes
+NA,female,5 - <10K,Black,e67536,2,IPM,8,14,NA,Yes
+Row house end of group,male,5 - <10K,Black,e6d276,0,IPM,6,1,1.55,Yes
+NA,male,5 - <10K,Black,e6d276,1,IPM,7,0,NA,Yes
+NA,male,5 - <10K,Black,e6d276,2,IPM,7,3,NA,Yes
+NA,male,5 - <10K,Black,e6d276,3,IPM,7,7,NA,Yes
+NA,male,5 - <10K,Black,e6d276,4,IPM,8,3,NA,No
+Row house,male,20 - <25K,Black,e712cd,0,IPM,6,2,0.71,Yes
+NA,male,20 - <25K,Black,e712cd,1,IPM,7,4,NA,Yes
+NA,male,20 - <25K,Black,e712cd,2,IPM,7,4,NA,Yes
+NA,male,20 - <25K,Black,e712cd,3,IPM,7,2,NA,No
+NA,male,20 - <25K,Black,e712cd,4,IPM,7,3,0.25,No
+Duplex/semi-detached,male,10 - <15K,Black,e74135,0,Education,5,7,100,Yes
+NA,male,10 - <15K,Black,e74135,1,Education,6,1,NA,No
+NA,male,10 - <15K,Black,e74135,2,Education,6,0,NA,Yes
+NA,male,10 - <15K,Black,e74135,3,Education,6,14,NA,Yes
+NA,male,10 - <15K,Black,e74135,4,Education,6,0,100,No
+Apartment,male,45 - <50K,Black,e752c5,0,IPM,8,2,7.57,Yes
+NA,male,45 - <50K,Black,e752c5,1,IPM,8,0,NA,Yes
+NA,male,45 - <50K,Black,e752c5,2,IPM,9,1,NA,No
+NA,male,45 - <50K,Black,e752c5,3,IPM,9,1,NA,No
+NA,male,45 - <50K,Black,e752c5,4,IPM,9,1,0.05,Yes
+Row house end of group,male,5 - <10K,Black,e76aa5,0,IPM,6,14,0.34,Yes
+NA,male,5 - <10K,Black,e76aa5,1,IPM,6,0,NA,No
+NA,male,5 - <10K,Black,e76aa5,2,IPM,7,1,NA,No
+NA,male,5 - <10K,Black,e76aa5,3,IPM,7,7,NA,Yes
+NA,male,5 - <10K,Black,e76aa5,4,IPM,7,3,2.56,No
+Row house,male,15 - <20K,Black,e79767,0,Education,7,1,4.84,Yes
+NA,male,15 - <20K,Black,e79767,1,Education,7,0,NA,Yes
+NA,male,15 - <20K,Black,e79767,2,Education,8,0,NA,Yes
+NA,male,15 - <20K,Black,e79767,3,Education,8,0,NA,Yes
+Apartment,female,10 - <15K,Black,e824e3,0,IPM,14,0,0.05,Yes
+NA,female,10 - <15K,Black,e824e3,1,IPM,14,0,NA,Yes
+NA,female,10 - <15K,Black,e824e3,2,IPM,14,0,NA,Yes
+NA,female,10 - <15K,Black,e824e3,3,IPM,14,2,NA,Yes
+NA,female,10 - <15K,Black,e824e3,4,IPM,15,0,0.05,Yes
+Row house,male,<5K,Black,e92e05,0,IPM,10,7,14.4,Yes
+NA,male,<5K,Black,e92e05,1,IPM,10,7,NA,Yes
+NA,male,<5K,Black,e92e05,2,IPM,11,4,NA,Yes
+NA,male,<5K,Black,e92e05,3,IPM,11,7,NA,Yes
+NA,male,<5K,Black,e92e05,4,IPM,11,8,14.7,Yes
+Row house,female,refused,Black,eb8fa3,0,Education,7,0,100,No
+NA,female,refused,Black,eb8fa3,1,Education,7,0,NA,Yes
+NA,female,refused,Black,eb8fa3,2,Education,8,0,NA,Yes
+NA,female,refused,Black,eb8fa3,3,Education,8,0,NA,Yes
+NA,female,refused,Black,eb8fa3,4,Education,8,0,100,No
+Detached house,male,<5K,Black,ed2c65,0,Education,7,3,65.2,No
+NA,male,<5K,Black,ed2c65,1,Education,7,8,NA,No
+NA,male,<5K,Black,ed2c65,2,Education,7,8,NA,No
+NA,male,<5K,Black,ed2c65,3,Education,8,7,NA,No
+NA,male,<5K,Black,ed2c65,4,Education,8,14,32.7,No
+Apartment,male,10 - <15K,Black,ed672a,0,IPM,16,1,34,Yes
+NA,male,10 - <15K,Black,ed672a,1,IPM,16,2,NA,Yes
+NA,male,10 - <15K,Black,ed672a,2,IPM,16,1,NA,Yes
+NA,male,10 - <15K,Black,ed672a,3,IPM,17,0,NA,Yes
+NA,male,10 - <15K,Black,ed672a,4,IPM,17,0,53.3,Yes
+Apartment,female,20 - <25K,Black,ee4e83,0,Education,6,0,0.05,Yes
+NA,female,20 - <25K,Black,ee4e83,1,Education,7,0,NA,Yes
+NA,female,20 - <25K,Black,ee4e83,2,Education,7,0,NA,No
+NA,female,20 - <25K,Black,ee4e83,3,Education,7,0,NA,No
+NA,female,20 - <25K,Black,ee4e83,4,Education,7,0,0.24,No
+Row house,male,>50K,Black,ee74ed,0,IPM,6,3,0.05,Yes
+NA,male,>50K,Black,ee74ed,1,IPM,7,0,NA,Yes
+NA,male,>50K,Black,ee74ed,2,IPM,7,8,NA,Yes
+NA,male,>50K,Black,ee74ed,3,IPM,7,5,NA,Yes
+NA,male,>50K,Black,ee74ed,4,IPM,8,14,0.05,Yes
+Row house,male,10 - <15K,Black,eeede7,0,Education,16,0,7.67,Yes
+NA,male,10 - <15K,Black,eeede7,1,Education,17,3,NA,Yes
+NA,male,10 - <15K,Black,eeede7,2,Education,17,0,NA,No
+NA,male,10 - <15K,Black,eeede7,3,Education,17,0,NA,Yes
+NA,male,10 - <15K,Black,eeede7,4,Education,17,0,17.7,Yes
+Row house end of group,female,25 - <30K,Black,efe132,0,IPM,12,3,16.5,Yes
+NA,female,25 - <30K,Black,efe132,1,IPM,12,2,NA,Yes
+NA,female,25 - <30K,Black,efe132,2,IPM,12,2,NA,Yes
+NA,female,25 - <30K,Black,efe132,3,IPM,12,2,NA,Yes
+NA,female,25 - <30K,Black,efe132,4,IPM,13,0,11.6,No
+Row house,female,25 - <30K,Black,f071dc,0,Education,8,1,12.5,Yes
+NA,female,25 - <30K,Black,f071dc,1,Education,8,2,NA,Yes
+NA,female,25 - <30K,Black,f071dc,2,Education,8,1,NA,Yes
+NA,female,25 - <30K,Black,f071dc,3,Education,8,5,NA,Yes
+NA,female,25 - <30K,Black,f071dc,4,Education,9,0,10.4,Yes
+Duplex/semi-detached,male,>50K,multi,f0beca,0,Education,15,5,8.65,Yes
+NA,male,>50K,multi,f0beca,1,Education,16,2,NA,Yes
+NA,male,>50K,multi,f0beca,2,Education,16,6,NA,Yes
+NA,male,>50K,multi,f0beca,3,Education,16,2,NA,Yes
+NA,male,>50K,multi,f0beca,4,Education,16,5,7.37,Yes
+Detached house,male,30 - <35K,Black,f0c9a3,0,Education,9,0,4.26,Yes
+NA,male,30 - <35K,Black,f0c9a3,1,Education,10,3,NA,No
+NA,male,30 - <35K,Black,f0c9a3,2,Education,10,10,NA,Yes
+NA,male,30 - <35K,Black,f0c9a3,3,Education,10,2,NA,No
+NA,male,30 - <35K,Black,f0c9a3,4,Education,11,14,4.43,No
+Apartment,female,20 - <25K,Black,f2b1e2,0,IPM,10,2,10.3,Yes
+NA,female,20 - <25K,Black,f2b1e2,1,IPM,10,1,NA,Yes
+NA,female,20 - <25K,Black,f2b1e2,2,IPM,11,0,NA,Yes
+Row house,female,<5K,Black,f2c856,0,IPM,11,4,100,Yes
+NA,female,<5K,Black,f2c856,1,IPM,11,3,NA,Yes
+NA,female,<5K,Black,f2c856,2,IPM,11,0,NA,Yes
+NA,female,<5K,Black,f2c856,3,IPM,12,3,NA,Yes
+NA,female,<5K,Black,f2c856,4,IPM,12,0,NA,Yes
+Row house,male,20 - <25K,Black,f34681,0,Education,10,14,34.5,Yes
+NA,male,20 - <25K,Black,f34681,1,Education,10,6,NA,Yes
+NA,male,20 - <25K,Black,f34681,2,Education,11,14,NA,No
+NA,male,20 - <25K,Black,f34681,3,Education,11,5,NA,No
+NA,male,20 - <25K,Black,f34681,4,Education,11,6,19.1,No
+Row house end of group,male,15 - <20K,Black,f4ec5f,0,IPM,7,2,12.7,Yes
+NA,male,15 - <20K,Black,f4ec5f,1,IPM,7,3,NA,No
+NA,male,15 - <20K,Black,f4ec5f,2,IPM,8,3,NA,Yes
+NA,male,15 - <20K,Black,f4ec5f,3,IPM,8,0,NA,Yes
+NA,male,15 - <20K,Black,f4ec5f,4,IPM,8,6,5.64,No
+Row house end of group,male,40 - <45K,Black,f54f2b,0,Education,11,4,1.3,No
+NA,male,40 - <45K,Black,f54f2b,1,Education,11,5,NA,Yes
+NA,male,40 - <45K,Black,f54f2b,3,Education,12,6,NA,Yes
+NA,male,40 - <45K,Black,f54f2b,4,Education,12,14,1.71,No
+Row house,male,>50K,Black,f5dc45,0,Education,16,2,1.83,Yes
+NA,male,>50K,Black,f5dc45,1,Education,16,2,NA,Yes
+NA,male,>50K,Black,f5dc45,2,Education,16,0,NA,Yes
+NA,male,>50K,Black,f5dc45,3,Education,17,2,NA,Yes
+NA,male,>50K,Black,f5dc45,4,Education,17,2,0.46,Yes
+Apartment,female,10 - <15K,White,f615ea,0,IPM,14,0,0.05,Yes
+NA,female,10 - <15K,White,f615ea,1,IPM,14,0,NA,No
+NA,female,10 - <15K,White,f615ea,2,IPM,15,0,NA,No
+NA,female,10 - <15K,White,f615ea,3,IPM,15,0,NA,No
+NA,female,10 - <15K,White,f615ea,4,IPM,15,0,0.05,No
+Row house end of group,female,25 - <30K,Black,f699ba,0,Education,17,2,1.78,Yes
+NA,female,25 - <30K,Black,f699ba,1,Education,18,10,NA,Yes
+NA,female,25 - <30K,Black,f699ba,2,Education,18,5,NA,Yes
+NA,female,25 - <30K,Black,f699ba,3,Education,NA,10,NA,Yes
+NA,female,25 - <30K,Black,f699ba,4,Education,19,2,3,Yes
+Apartment,male,<5K,Black,f6aff6,0,IPM,12,0,54.6,No
+NA,male,<5K,Black,f6aff6,1,IPM,12,0,NA,Yes
+NA,male,<5K,Black,f6aff6,2,IPM,12,2,NA,Yes
+NA,male,<5K,Black,f6aff6,3,IPM,12,2,NA,Yes
+NA,male,<5K,Black,f6aff6,4,IPM,13,1,100,Yes
+Row house,female,20 - <25K,Black,f94ee0,0,Education,11,5,4.79,Yes
+NA,female,20 - <25K,Black,f94ee0,1,Education,12,4,NA,Yes
+NA,female,20 - <25K,Black,f94ee0,2,Education,12,5,NA,No
+NA,female,20 - <25K,Black,f94ee0,3,Education,12,0,NA,No
+NA,female,20 - <25K,Black,f94ee0,4,Education,12,4,100,Yes
+Apartment,male,<5K,Black,f95537,0,IPM,8,2,0.95,No
+NA,male,<5K,Black,f95537,1,IPM,8,0,NA,No
+NA,male,<5K,Black,f95537,2,IPM,8,0,NA,No
+NA,male,<5K,Black,f95537,3,IPM,9,2,NA,Yes
+NA,male,<5K,Black,f95537,4,IPM,9,1,1.35,Yes
+Detached house,female,>50K,Black,fa1e58,0,Education,11,0,2.66,Yes
+NA,female,>50K,Black,fa1e58,1,Education,11,0,NA,No
+NA,female,>50K,Black,fa1e58,2,Education,11,4,NA,Yes
+NA,female,>50K,Black,fa1e58,3,Education,11,0,NA,No
+NA,female,>50K,Black,fa1e58,4,Education,12,2,4.01,Yes
+Row house,male,10 - <15K,Black,faf6d1,0,IPM,8,1,2.02,Yes
+NA,male,10 - <15K,Black,faf6d1,1,IPM,8,0,NA,Yes
+NA,male,10 - <15K,Black,faf6d1,2,IPM,8,2,NA,Yes
+NA,male,10 - <15K,Black,faf6d1,3,IPM,9,0,NA,No
+NA,male,10 - <15K,Black,faf6d1,4,IPM,9,3,1.42,No
+Apartment,female,refused,Black,fb2aa6,0,Education,7,7,88.9,Yes
+NA,female,refused,Black,fb2aa6,1,Education,7,3,NA,Yes
+NA,female,refused,Black,fb2aa6,2,Education,7,3,NA,Yes
+NA,female,refused,Black,fb2aa6,3,Education,7,9,NA,Yes
+NA,female,refused,Black,fb2aa6,4,Education,8,0,30.8,Yes
+Row house,male,>50K,Black,fbc804,0,IPM,7,14,83.9,Yes
+NA,male,>50K,Black,fbc804,1,IPM,8,0,NA,Yes
+NA,male,>50K,Black,fbc804,2,IPM,8,0,NA,No
+NA,male,>50K,Black,fbc804,3,IPM,8,0,NA,No
+NA,male,>50K,Black,fbc804,4,IPM,9,0,4.49,Yes
+Apartment,male,15 - <20K,White,fbd144,0,Education,7,0,0.05,Yes
+NA,male,15 - <20K,White,fbd144,1,Education,7,0,NA,Yes
+NA,male,15 - <20K,White,fbd144,2,Education,7,2,NA,Yes
+NA,male,15 - <20K,White,fbd144,3,Education,8,0,NA,Yes
+NA,male,15 - <20K,White,fbd144,4,Education,8,0,0.05,Yes
+Row house,female,<5K,Black,fbef84,0,Education,8,0,89,Yes
+NA,female,<5K,Black,fbef84,1,Education,8,0,NA,Yes
+NA,female,<5K,Black,fbef84,2,Education,8,0,NA,Yes
+NA,female,<5K,Black,fbef84,3,Education,8,0,NA,Yes
+NA,female,<5K,Black,fbef84,4,Education,9,0,NA,Yes
+Apartment,male,<5K,Black,fbf25a,0,IPM,6,3,0.05,Yes
+NA,male,<5K,Black,fbf25a,1,IPM,6,3,NA,Yes
+NA,male,<5K,Black,fbf25a,2,IPM,7,4,NA,No
+NA,male,<5K,Black,fbf25a,3,IPM,7,2,NA,No
+NA,male,<5K,Black,fbf25a,4,IPM,7,3,0.05,No
+Detached house,male,don't know,Black,fc3e01,0,IPM,8,10,66.1,Yes
+NA,male,don't know,Black,fc3e01,1,IPM,8,10,NA,Yes
+NA,male,don't know,Black,fc3e01,2,IPM,9,14,NA,Yes
+NA,male,don't know,Black,fc3e01,3,IPM,9,0,NA,Yes
+NA,male,don't know,Black,fc3e01,4,IPM,9,14,13.4,Yes
+Apartment,female,>50K,White,fd2b94,0,IPM,7,4,17.8,Yes
+NA,female,>50K,White,fd2b94,1,IPM,7,0,NA,Yes
+NA,female,>50K,White,fd2b94,2,IPM,7,1,NA,Yes
+NA,female,>50K,White,fd2b94,3,IPM,NA,1,NA,No
+NA,female,>50K,White,fd2b94,4,IPM,8,1,8.39,No
+Row house,female,25 - <30K,Black,fdac7c,0,Education,7,14,0.48,Yes
+NA,female,25 - <30K,Black,fdac7c,1,Education,8,2,NA,Yes
+NA,female,25 - <30K,Black,fdac7c,2,Education,8,0,NA,Yes
+NA,female,25 - <30K,Black,fdac7c,3,Education,8,0,NA,No
+NA,female,25 - <30K,Black,fdac7c,4,Education,8,14,0.05,No
+Apartment,female,10 - <15K,Black,fde1ac,0,IPM,10,2,4.6,Yes
+NA,female,10 - <15K,Black,fde1ac,1,IPM,11,2,NA,No
+NA,female,10 - <15K,Black,fde1ac,2,IPM,11,0,NA,No
+NA,female,10 - <15K,Black,fde1ac,3,IPM,11,13,NA,Yes
+NA,female,10 - <15K,Black,fde1ac,4,IPM,11,2,6.3,No
+Apartment,female,30 - <35K,Black,fe7498,0,IPM,9,4,10.7,Yes
+NA,female,30 - <35K,Black,fe7498,1,IPM,9,4,NA,Yes
+NA,female,30 - <35K,Black,fe7498,2,IPM,10,4,NA,Yes
+NA,female,30 - <35K,Black,fe7498,3,IPM,10,2,NA,Yes
+NA,female,30 - <35K,Black,fe7498,4,IPM,10,1,21.5,Yes
+Row house,male,5 - <10K,Black,ff33e7,0,Education,7,5,100,Yes
+NA,male,5 - <10K,Black,ff33e7,1,Education,7,4,NA,Yes
+NA,male,5 - <10K,Black,ff33e7,2,Education,7,5,NA,Yes
+NA,male,5 - <10K,Black,ff33e7,3,Education,7,0,NA,Yes
+NA,male,5 - <10K,Black,ff33e7,4,Education,8,2,88.2,Yes
+Apartment,male,25 - <30K,White,ff506d,0,Education,8,0,0.11,Yes
+NA,male,25 - <30K,White,ff506d,1,Education,9,0,NA,Yes
+NA,male,25 - <30K,White,ff506d,2,Education,9,0,NA,Yes
+NA,male,25 - <30K,White,ff506d,3,Education,9,3,NA,Yes
+NA,male,25 - <30K,White,ff506d,4,Education,9,2,0.45,Yes
