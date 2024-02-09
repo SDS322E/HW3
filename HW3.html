@@ -362,6 +362,36 @@ to find your answer (show R chunk). Answers without supporting code will
 not receive credit. Write full sentences to describe your
 findings.</em></p>
 <hr />
+<p>This homework will focus on data from the Mouse Allerge and Asthma
+Intervention Trial, which we have previously discussed in class. This
+study looked at the effect of an integrated pest management (IPM)
+program on improving asthma symptoms. Study subjects were randomized to
+either recieve the IPM program or to receive education about thge effect
+of mouse allergen in the home.</p>
+<p>The dataset included for this homework contains information on the
+following variables:</p>
+<ul>
+<li><p><code>hometype</code> - the type of house/home the subject lived
+in</p></li>
+<li><p><code>gender</code> - self-reported gender</p></li>
+<li><p><code>income</code> - category of income for the parent of the
+subject</p></li>
+<li><p><code>race</code> - self reported race</p></li>
+<li><p><code>ID</code> - a random identifier string for each study
+subject</p></li>
+<li><p><code>visit</code> - the visit number when data were recorded
+(ranges from 0 to 4)</p></li>
+<li><p><code>age</code> - the subject’s age</p></li>
+<li><p><code>symptomdays</code> - the number of days with asthma
+symptoms in the past 2 weeks</p></li>
+<li><p><code>IgE</code> - the level of IgE (a marker of allergic
+response) in the blood</p></li>
+<li><p><code>mice.infest</code> - whether there was evidence of mouse
+infestation in the home</p></li>
+</ul>
+<p>The dataset can be loaded into R using the <code>read_csv()</code>
+code below. Take a look at the data frame before proceeding with the
+questions below.</p>
 <pre class="r"><code>library(tidyverse)
 
 maait &lt;- read_csv(&quot;maait.csv&quot;)
