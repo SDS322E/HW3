@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE, eval = TRUE,
 
 ------------------------------------------------------------------------
 
-This homework will focus on data from the Mouse Allerge and Asthma Intervention Trial, which we have previously discussed in class. This study looked at the effect of an integrated pest management (IPM) program on improving asthma symptoms. Study subjects were randomized to either recieve the IPM program or to receive education about thge effect of mouse allergen in the home.
+This homework will focus on data from the Mouse Allergen and Asthma Intervention Trial, which we have previously discussed in class. This study looked at the effect of an integrated pest management (IPM) program on improving asthma symptoms. Study subjects were randomized to either recieve the IPM program or to receive education about thge effect of mouse allergen in the home.
 
 The dataset included for this homework contains information on the following variables:
 
