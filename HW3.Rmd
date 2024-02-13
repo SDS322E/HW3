@@ -70,7 +70,7 @@ Using `dplyr` functions, answer the following questions:
 
 1. How many people (study subjects) in the baseline dataset live in an Apartment? 
 
-2. What percentage of all the subjects in the study live in an Apartment? 
+2. What percentage of all the subjects in the baseline dataset live in an Apartment? 
 
 (Note: See the `hometype` variable for this question.) 
 
