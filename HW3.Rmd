@@ -183,7 +183,7 @@ Plot the average of `symptomdays` for each visit and plot separate points for th
 
 How would you describe the effect of the treatment on symptom-days in this study?
 
-```{r,eval=FALSE}
+```{r}
 ## add your code here (and edit this comment to make it descriptive)
 
 ```
