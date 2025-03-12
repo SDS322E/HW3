@@ -210,5 +210,5 @@ How would you describe the difference in the effect of the treatment on symptoms
 
 ### Formatting: (2 pts)
 
-Comment your code, write full sentences, and knit your file!
+Comment your code, write full sentences, knit your file, and select all appropriate pages in Gradescope for each question!
 
